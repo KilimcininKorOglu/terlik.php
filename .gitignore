@@ -1,0 +1,5 @@
+/vendor/
+/composer.phar
+/test.php
+*.cache
+.phpunit.result.cache

@@ -1,0 +1,47 @@
+{
+    "name": "badursun/terlik",
+    "description": "Ultra-fast, zero-dependency profanity detection engine for PHP. Ships with Turkish, English, Spanish & German — extensible to any language. Deep agglutination support, ReDoS-safe regex patterns.",
+    "version": "2.5.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Burak DURSUN",
+            "homepage": "https://github.com/badursun"
+        }
+    ],
+    "homepage": "https://github.com/badursun/terlik.php",
+    "keywords": [
+        "profanity",
+        "profanity-filter",
+        "profanity-detection",
+        "content-moderation",
+        "filter",
+        "censor",
+        "badwords",
+        "turkish",
+        "multi-language",
+        "extensible",
+        "zero-dependency",
+        "php"
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-mbstring": "*",
+        "ext-intl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Terlik\\": "src/"
+        },
+        "files": [
+            "src/Types.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Terlik\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable"
+}
