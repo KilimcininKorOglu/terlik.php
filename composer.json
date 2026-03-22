@@ -1,7 +1,7 @@
 {
     "name": "KilimcininKorOglu/terlik",
     "description": "Ultra-fast, zero-dependency profanity detection engine for PHP. Ships with Turkish, English, Spanish & German — extensible to any language. Deep agglutination support, ReDoS-safe regex patterns.",
-    "version": "2.5.0",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
