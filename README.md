@@ -23,7 +23,7 @@ Production-ready, multi-language profanity detection engine for PHP. A faithful 
 ## Installation
 
 ```bash
-composer require badursun/terlik
+composer require KilimcininKorOglu/terlik.php
 ```
 
 ## Quick Start
@@ -71,11 +71,11 @@ $terlik = new Terlik(new TerlikOptions(
 
 ## Detection Modes
 
-| Mode       | Description                                      |
-|------------|--------------------------------------------------|
-| `strict`   | Hash-based exact match only                      |
-| `balanced` | Full regex pattern matching (default)            |
-| `loose`    | Pattern matching + fuzzy similarity              |
+| Mode       | Description                           |
+|------------|---------------------------------------|
+| `strict`   | Hash-based exact match only           |
+| `balanced` | Full regex pattern matching (default) |
+| `loose`    | Pattern matching + fuzzy similarity   |
 
 ## Mask Styles
 
