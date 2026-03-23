@@ -115,10 +115,21 @@ final class Detector
     {
         $this->normalizedWordSet = [];
         $this->normalizedWordToRoot = [];
+
+        // Add roots first (they take priority over variants)
+        foreach ($this->dictionary->getEntries() as $entry) {
+            $n = ($this->normalizeFn)($entry->root);
+            $this->normalizedWordSet[$n] = true;
+            $this->normalizedWordToRoot[$n] = $entry->root;
+        }
+
+        // Add variants only if they don't collide with existing roots
         foreach ($this->dictionary->getAllWords() as $word) {
             $n = ($this->normalizeFn)($word);
             $this->normalizedWordSet[$n] = true;
-            $this->normalizedWordToRoot[$n] = $word;
+            if (!isset($this->normalizedWordToRoot[$n])) {
+                $this->normalizedWordToRoot[$n] = $word;
+            }
         }
     }
 
