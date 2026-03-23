@@ -5,12 +5,12 @@ declare(strict_types=1);
 use Terlik\Dictionary\Schema;
 use Terlik\Lang\LanguageConfig;
 
-$dictionary = json_decode(
-    file_get_contents(__DIR__ . '/dictionary.json'),
-    true,
-    512,
-    JSON_THROW_ON_ERROR,
-);
+$dictionaryPath = __DIR__ . '/dictionary.json';
+$json = file_get_contents($dictionaryPath);
+if ($json === false) {
+    throw new \RuntimeException('Failed to read dictionary file: ' . $dictionaryPath);
+}
+$dictionary = json_decode($json, true, 512, JSON_THROW_ON_ERROR);
 
 $validatedData = Schema::validateDictionary($dictionary);
 
