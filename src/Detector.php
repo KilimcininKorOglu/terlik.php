@@ -293,8 +293,15 @@ final class Detector
         $patterns = $this->ensureCompiled();
         $minSev = $options?->minSeverity;
         $exCats = $options?->excludeCategories;
+        $globalStart = hrtime(true);
 
         foreach ($patterns as $pattern) {
+            // Global timeout check: stop all pattern processing
+            $globalElapsedMs = (hrtime(true) - $globalStart) / 1_000_000;
+            if ($globalElapsedMs > PatternCompiler::REGEX_TIMEOUT_MS) {
+                break;
+            }
+
             // Pattern-level skip
             if ($minSev !== null && SeverityOrder::get($pattern->severity) < SeverityOrder::get($minSev)) {
                 continue;
@@ -302,8 +309,6 @@ final class Detector
             if ($exCats !== null && $pattern->category !== null && in_array($pattern->category, $exCats, true)) {
                 continue;
             }
-
-            $patternStart = hrtime(true);
 
             if (preg_match_all($pattern->regex, $searchText, $matches, PREG_OFFSET_CAPTURE) === false) {
                 continue;
@@ -371,10 +376,10 @@ final class Detector
                     }
                 }
 
-                // Timeout check
-                $elapsedMs = (hrtime(true) - $patternStart) / 1_000_000;
+                // Timeout check: break both loops
+                $elapsedMs = (hrtime(true) - $globalStart) / 1_000_000;
                 if ($elapsedMs > PatternCompiler::REGEX_TIMEOUT_MS) {
-                    break;
+                    break 2;
                 }
             }
         }
