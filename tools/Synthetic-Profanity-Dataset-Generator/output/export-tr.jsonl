@@ -1,0 +1,1000 @@
+{"text":"lna 5a|{$ocidik","label":1,"root":"saksoci","difficulty":"hard","transforms":["leet","suffix"],"category":"positive"}
+{"text":"namus festivali bu yıl da düzenleniyor","label":0,"root":"namus","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gebertir kaybol gözümden","label":1,"root":"gebertir","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"göl denemeni öneririm","label":0,"root":"göl","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"pişirme ihracatı ülke ekonomisine katkı sağlıyor","label":0,"root":"pişirme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"z||\\|isim1izzzer lafı","label":1,"root":"rezil","difficulty":"extreme","transforms":["charRepeat","suffix","reverse","leet"],"category":"positive"}
+{"text":"o adam tam bir rez!1te gibi davranıyor","label":1,"root":"rezil","difficulty":"hard","transforms":["suffix","leet"],"category":"positive"}
+{"text":"lna s_a_h_ţ_ë_k_ā_r_т_ê_n","label":1,"root":"sahtekar","difficulty":"hard","transforms":["suffix","unicode","separator"],"category":"positive"}
+{"text":"dal|^madin olmaktan sıkılmadın mı?","label":1,"root":"dallama","difficulty":"hard","transforms":["leet","suffix"],"category":"positive"}
+{"text":"g=ö=ť=v=ē=ŕ=e=n misin sen?","label":1,"root":"götveren","difficulty":"hard","transforms":["unicode","separator"],"category":"positive"}
+{"text":"Piçkıran (bitki) ihracatı ülke ekonomisine katkı sağlıyor","label":0,"root":"piçkıran (bitki)","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Gelmek baya iyi","label":0,"root":"gelmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"arkadaşlar arasında ÑÂŇĶÖRLA😡RI şakası yapıyorlar","label":1,"root":"nankör","difficulty":"extreme","transforms":["suffix","unicode","emojiMix","case"],"category":"positive"}
+{"text":"sen t€rb|y3siz mısın?","label":1,"root":"terbiyesiz","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"tez manzarası harika","label":0,"root":"tez","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hadi amınakorum","label":1,"root":"amınakorum","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"aslan denemeni öneririm","label":0,"root":"aslan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"t‌a⁣💀şa‎a‎aa﻿k‌l⁢ı LMAO","label":1,"root":"taşaklı","difficulty":"hard","transforms":["emojiMix","charRepeat","zwc"],"category":"positive"}
+{"text":"off h̨a̐p̪̤îy̐ȅd̐̃̍ị̺n̜̭̐d̥ẽ̤n̷̲","label":1,"root":"hapiyedin","difficulty":"medium","transforms":["suffix","zalgo"],"category":"positive"}
+{"text":"tribünde g'0'+un diye tezahürat yapıyorlar","label":1,"root":"göt","difficulty":"hard","transforms":["leet","separator","suffix"],"category":"positive"}
+{"text":"hoşçakal sezonu başladı","label":0,"root":"hoşçakal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"taşınmaz gezisi çok keyifliydi","label":0,"root":"taşınmaz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"algoritma nasıl kullanılır","label":0,"root":"algoritma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam defol diye hakaret etti","label":1,"root":"defol","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"yeni dolum modeli","label":0,"root":"dolum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ameliyat teknolojisi hızla gelişiyor","label":0,"root":"ameliyat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Penguen çok güzel bir yer","label":0,"root":"penguen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bilgisayar biliyor musun","label":0,"root":"bilgisayar","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu ne biçim ensenibulurum bir ortam","label":1,"root":"ensenibulurum","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"Ağaç festivali bu yıl da var","label":0,"root":"ağaç","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kes a̺̜m̑c̞1̴̊k̞̉́","label":1,"root":"amcık","difficulty":"hard","transforms":["leet","zalgo"],"category":"positive"}
+{"text":"seni HHHHINZIR","label":1,"root":"hınzır","difficulty":"hard","transforms":["charRepeat","case"],"category":"positive"}
+{"text":"senin kadar mganndamisn birini tanımadım","label":1,"root":"maganda","difficulty":"hard","transforms":["charRepeat","suffix","vowelDrop"],"category":"positive"}
+{"text":"bulmak gördün mü","label":0,"root":"bulmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amir alanında uzmanlaşmak istiyorum","label":0,"root":"amir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"itici nasıl yapılır","label":0,"root":"itici","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bugün muş aldım","label":0,"root":"muş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bir ya2ıma|<ı1lıı gibi","label":1,"root":"yarımakıllı","difficulty":"hard","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"ya ķ\\a\\l\\ƥ\\a\\z\\a\\ndin","label":1,"root":"kalpazan","difficulty":"hard","transforms":["unicode","separator","suffix"],"category":"positive"}
+{"text":"kameraya bakıp onurrrsuz diye bağırdı","label":1,"root":"onursuz","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"sosyal medyada google hakkında güzel paylaşımlar gördüm","label":0,"root":"google","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bahçe gördün mü","label":0,"root":"bahçe","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yardımcı manzarası harika","label":0,"root":"yardımcı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Algoritma ile ilgili bir yazı","label":0,"root":"algoritma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amsterdam doğası muhteşem","label":0,"root":"amsterdam","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lna a,l,l,1, ,|,ç,a,k,u,m","label":1,"root":"alçak","difficulty":"extreme","transforms":["suffix","charRepeat","leet","split","separator"],"category":"positive"}
+{"text":"O amblem harika","label":0,"root":"amblem","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dürüstlük çeşitleri","label":0,"root":"dürüstlük","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tatilde göteborg gezisi yaptık harika bir deneyimdi","label":0,"root":"göteborg","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"merhaba duymuşsundur","label":0,"root":"merhaba","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"HÖÖoeD Ü|{$a olduğu aşikar","label":1,"root":"hödük","difficulty":"extreme","transforms":["case","charRepeat","suffix","split","leet"],"category":"positive"}
+{"text":"yyüzsuz herif seni","label":1,"root":"yüzsüz","difficulty":"medium","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"sen y_a_r_r_a_k_ _k_a_f_a_l_ı mısın?","label":1,"root":"yarrak kafalı","difficulty":"easy","transforms":["separator"],"category":"positive"}
+{"text":"gösterge fiyatları ne kadar","label":0,"root":"gösterge","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay be ne pezevvenk","label":1,"root":"pezevenk","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"sen ananıaʋraԁdɗıńı müsün yoksa?","label":1,"root":"ananıavradını","difficulty":"hard","transforms":["charRepeat","unicode"],"category":"positive"}
+{"text":"dede bana amen anlatırdı çocukken","label":0,"root":"amen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"nasılsın denemeni öneririm","label":0,"root":"nasılsın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"istatistik teknolojisi gelişiyor","label":0,"root":"istatistik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"namuslu hakkında bilgi","label":0,"root":"namuslu","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Klasik ihracatı arttı","label":0,"root":"klasik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"arkadaşlar arasında alık şakası yapıyorlar","label":1,"root":"alık","difficulty":"medium","transforms":[],"category":"positive"}
+{"text":"bu kadar assılasıleri olunmaz ki","label":1,"root":"asılası","difficulty":"medium","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"müpptezel sjsjsj","label":1,"root":"müptezel","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"taşınmaz rekoru kırıldı","label":0,"root":"taşınmaz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Görüşürüz gezisi çok keyifliydi","label":0,"root":"görüşürüz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"simpozyum parkına gittik","label":0,"root":"simpozyum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yorumlarda gömerler yazmışlar yine","label":1,"root":"gömerler","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"Iyiyim nasıl yapılır","label":0,"root":"iyiyim","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"a̎l̪l̗̻̱ăh̤̼b̩⁡̻ē̱̏l̠̤a̵̭̞‌̮̜̉n̅ı̪̏‎̴̮̆v̙̯́e̴̡̝⁢̤ṟ̠s̨̩⁤̳̱̖ȋn̶ herif","label":1,"root":"allahbelanıversin","difficulty":"hard","transforms":["zwc","zalgo"],"category":"positive"}
+{"text":"hayatımda gördüğüm en görgüüüüsüz insansın","label":1,"root":"görgüsüz","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"internet sitesinde protokol hakkında güzel bir yazı var","label":0,"root":"protokol","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay ķıııro","label":1,"root":"kıro","difficulty":"medium","transforms":["unicode","charRepeat"],"category":"positive"}
+{"text":"lütfen konferansına katıldım","label":0,"root":"lütfen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"honda mağazası nerede","label":0,"root":"honda","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sseřseм olm","label":1,"root":"sersem","difficulty":"hard","transforms":["charRepeat","unicode"],"category":"positive"}
+{"text":"sosyal medyada pilav hakkında güzel paylaşımlar gördüm","label":0,"root":"pilav","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"istemek mevsimi geldi çok heyecanlıyım","label":0,"root":"istemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne yaraksa bir insan bu?","label":1,"root":"yarak","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"şırnak sipariş ettim","label":0,"root":"şırnak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Masif hakkında makale okudum","label":0,"root":"masif","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karşı takımın taraftarları k=e=v=a=ş=ş=ş=ş=e diye bağırdı","label":1,"root":"kevaşe","difficulty":"medium","transforms":["charRepeat","separator"],"category":"positive"}
+{"text":"hahahah ibbneli","label":1,"root":"ibne","difficulty":"medium","transforms":["suffix","doubling"],"category":"positive"}
+{"text":"bu nasılsın çok güzel","label":0,"root":"nasılsın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tam bir вuɗalaůmmmɱ","label":1,"root":"budala","difficulty":"hard","transforms":["suffix","charRepeat","unicode"],"category":"positive"}
+{"text":"adam kAnsIz diye mesaj atmış gece gece","label":1,"root":"kansız","difficulty":"medium","transforms":["case"],"category":"positive"}
+{"text":"kes sesini bud^^^l4","label":1,"root":"budala","difficulty":"hard","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"seni piçtik","label":1,"root":"piç","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"hipotez fabrikası yeni açıldı ilçede","label":0,"root":"hipotez","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam geldi yüzüme karşı sòуsssuz dedi","label":1,"root":"soysuz","difficulty":"medium","transforms":["unicode","charRepeat"],"category":"positive"}
+{"text":"a,q herif seni","label":1,"root":"aq","difficulty":"medium","transforms":["separator"],"category":"positive"}
+{"text":"düzce duymuşsundur","label":0,"root":"düzce","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"soğan konferansına katıldım","label":0,"root":"soğan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karabük fabrikası yeni açıldı ilçede","label":0,"root":"karabük","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sağol biliyor musun","label":0,"root":"sağol","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay kalıınkfalı vay","label":1,"root":"kalınkafalı","difficulty":"hard","transforms":["charRepeat","vowelDrop"],"category":"positive"}
+{"text":"referans ile ilgili bir yazı","label":0,"root":"referans","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ekmek mağazası nerede","label":0,"root":"ekmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tüh seni k@@hpecık","label":1,"root":"kahpe","difficulty":"hard","transforms":["leet","charRepeat","suffix"],"category":"positive"}
+{"text":"Kaplan doğası muhteşem","label":0,"root":"kaplan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bugün karakter aldım","label":0,"root":"karakter","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"6*e*ß* e*r*7*i*|*e*5*1 kdkdkd","label":1,"root":"gebertilesi","difficulty":"hard","transforms":["separator","leet","split"],"category":"positive"}
+{"text":"konferans hakkında ne biliyorsun","label":0,"root":"konferans","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"mallorca hakkında ne biliyorsun","label":0,"root":"mallorca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"fil ile ilgili podcast dinliyorum son günlerde","label":0,"root":"fil","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"göl çok güzel bir yer","label":0,"root":"göl","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ýŕķķ misin sen?","label":1,"root":"yrk","difficulty":"hard","transforms":["unicode","charRepeat"],"category":"positive"}
+{"text":"bu teşekkürler çok güzel","label":0,"root":"teşekkürler","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Niğde nasıl kullanılır","label":0,"root":"niğde","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hadi ö̻̉​̵̜l̬d̖̂̚‎̖̦̃ṵ̈r̭⁡̗̐̕ų̤̈​̤̝c̬̍⁡̥c̷̥̟‎̂̄ê̷̆m̔̋c̆ỉ̭̹k̓̆","label":1,"root":"öldürücem","difficulty":"extreme","transforms":["charRepeat","zwc","suffix","zalgo"],"category":"positive"}
+{"text":"mercedes hakkında ne düşünüyorsun","label":0,"root":"mercedes","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kırşehir hakkında bilgi","label":0,"root":"kırşehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Çankırı hakkında ne düşünüyorsun","label":0,"root":"çankırı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"am k lol","label":1,"root":"amk","difficulty":"medium","transforms":["split"],"category":"positive"}
+{"text":"en iyi çiçek markası","label":0,"root":"çiçek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yapmak satışa çıkmış","label":0,"root":"yapmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"anne malikane al gelirken dedi telefonla","label":0,"root":"malikane","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Malzeme çok tutuldu son zamanlarda","label":0,"root":"malzeme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bir b̘̄̒ù̴̒d̢̓a̵ḷ̡́a̦ gibi","label":1,"root":"budala","difficulty":"medium","transforms":["zalgo"],"category":"positive"}
+{"text":"ne biçim Y=2=2=KAC AK bu","label":1,"root":"yrrk","difficulty":"extreme","transforms":["separator","leet","suffix","split","case"],"category":"positive"}
+{"text":"göööt hēгif misin sen?","label":1,"root":"göt herif","difficulty":"medium","transforms":["unicode","charRepeat"],"category":"positive"}
+{"text":"pislik diye tabir edilen","label":1,"root":"pislik","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"hskkkktirun {word2} seni","label":1,"root":"hsktir","difficulty":"medium","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"hahahah ssśikim","label":1,"root":"sik","difficulty":"extreme","transforms":["charRepeat","suffix","unicode"],"category":"positive"}
+{"text":"§i|{tiğim seni gebertirim","label":1,"root":"siktiğim","difficulty":"easy","transforms":["leet"],"category":"positive"}
+{"text":"kes sesini beyinâmіp","label":1,"root":"beyinâmip","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"amblem hakkında ne biliyorsun","label":0,"root":"amblem","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"masif raporunu hazırladım","label":0,"root":"masif","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"niğde ödevini bitirdim","label":0,"root":"niğde","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kalpazan biri olduğunu biliyordum","label":1,"root":"kalpazan","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"ananıskimacam seni gebertirim","label":1,"root":"ananıskim","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"Tez hakkında makale okudum","label":0,"root":"tez","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"toplantıda yazılım konuştuk","label":0,"root":"yazılım","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"aferin ne kadar b̬ü̟d̪̪̑ā̵l̬̗ȁin","label":1,"root":"budala","difficulty":"hard","transforms":["zalgo","charRepeat","suffix"],"category":"positive"}
+{"text":"şırnak ile ilgili bir yazı","label":0,"root":"şırnak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu yıl tebrikler üretimi rekor kırdı","label":0,"root":"tebrikler","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yüzkarası!!!!!!!","label":1,"root":"yüzkarası","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"Dolmuş manzarası harika","label":0,"root":"dolmuş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"helal olsun kafasız","label":1,"root":"kafasız","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"vay @MG vay","label":1,"root":"amg","difficulty":"medium","transforms":["leet","case"],"category":"positive"}
+{"text":"gelmek fiyatları ne kadar","label":0,"root":"gelmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"boğazınıkeserimda diye tweet atıp silmiş","label":1,"root":"boğazınıkeserim","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"bakmak ihracatı arttı","label":0,"root":"bakmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"GÖT HERIIF ya","label":1,"root":"göt herif","difficulty":"hard","transforms":["doubling","case"],"category":"positive"}
+{"text":"senin kadar ɱėžařıñıкâzarım birini tanımadım","label":1,"root":"mezarınıkazarım","difficulty":"easy","transforms":["unicode"],"category":"positive"}
+{"text":"zeytin festivali bu yıl da var","label":0,"root":"zeytin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sosyal medyada hassiktirdik yazmışlar","label":1,"root":"hassiktir","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"dalyarakiyor lafı","label":1,"root":"dalyarak","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"Anne gotik al gelirken dedi telefonla","label":0,"root":"gotik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bir yarrak kafalı gibi","label":1,"root":"yarrak kafalı","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"tatilde ne haber gezisi yaptık harika bir deneyimdi","label":0,"root":"ne haber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bir șỉ̢̓k💀̢̀̚ţ̰̋ ̦̲̼ĩ̔ğ̇i̜̍̓m̹̃i̸n̳ gibi","label":1,"root":"siktiğimin","difficulty":"hard","transforms":["split","zalgo","emojiMix"],"category":"positive"}
+{"text":"yeni çorba projesi başarıyla tamamlandı","label":0,"root":"çorba","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"üniversitede biber bölümü çok popüler","label":0,"root":"biber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bir sktrgt gibi","label":1,"root":"sktrgt","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"maddrabazda amına koyim","label":1,"root":"madrabaz","difficulty":"hard","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"dolmen ihracatı ülke ekonomisine katkı sağlıyor","label":0,"root":"dolmen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"akşam tarayıcı yaptık çok güzel oldu","label":0,"root":"tarayıcı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"en iyi donanım markası","label":0,"root":"donanım","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne biçim i't'i'b' 'mm'a bu","label":1,"root":"am biti","difficulty":"hard","transforms":["separator","charRepeat","reverse"],"category":"positive"}
+{"text":"ağaç siparişi verdim yarın gelecek","label":0,"root":"ağaç","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amfibi almayı düşünüyorum","label":0,"root":"amfibi","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ahlaki tavsiye ederim","label":0,"root":"ahlaki","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çok ğöмüĺeşí bir hareket","label":1,"root":"gömülesi","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"üniversitede toyota bölümü çok popüler","label":0,"root":"toyota","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dede bana tava anlatırdı çocukken","label":0,"root":"tava","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çiçek sınavı vardı bugün","label":0,"root":"çiçek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amir tamircisi bulmak zor oldu ama hallettik","label":0,"root":"amir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hadi amınakoyduğumun","label":1,"root":"amınakoyduğumun","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"a|m|🤏|gle diye dalga geçiyorlar","label":1,"root":"amg","difficulty":"hard","transforms":["emojiMix","separator","suffix"],"category":"positive"}
+{"text":"sosyal medyada k1takılll|ımek yazmışlar","label":1,"root":"kıtakıllı","difficulty":"extreme","transforms":["leet","charRepeat","suffix"],"category":"positive"}
+{"text":"kaltak uzaklaş benden","label":1,"root":"kaltak","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"eşoğlueşek kdkdkd","label":1,"root":"eşoğlueşek","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"Sağol ödevini bitirdim","label":0,"root":"sağol","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bu belgeselde amper çok güzel anlatılmış","label":0,"root":"amper","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"зûgaŕ kelimesinin canlı hali","label":1,"root":"zugar","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"bibliyografya siparişi verdim yarın gelecek","label":0,"root":"bibliyografya","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Muş tavsiye ederim","label":0,"root":"muş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ulan o=r=o=s=p=u=ç=o=c=u=u=u=ğ=u=c=e","label":1,"root":"orospuçocuğu","difficulty":"hard","transforms":["charRepeat","suffix","separator"],"category":"positive"}
+{"text":"ne kadar sikicem bir yorum bu","label":1,"root":"sikicem","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"Hipotez projesi ilerliyor","label":0,"root":"hipotez","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam arayıp sg diyor telefonda","label":1,"root":"sg","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"bu yıl zürafa üretimi rekor kırdı","label":0,"root":"zürafa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"o adam tam bir a﻿m⁣ b﻿i‌t‌i gibi davranıyor","label":1,"root":"am biti","difficulty":"medium","transforms":["zwc"],"category":"positive"}
+{"text":"pisliiii|<a musun nesin","label":1,"root":"pislik","difficulty":"hard","transforms":["leet","suffix","charRepeat"],"category":"positive"}
+{"text":"hay m.e. .z.a.r.ı.n.ı.k.a.z.a.r.ı.m.a.y.i.m","label":1,"root":"mezarınıkazarım","difficulty":"hard","transforms":["split","suffix","separator"],"category":"positive"}
+{"text":"bu ne biçim aşağılık bir ortam","label":1,"root":"aşağılık","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"Kütüphanede teori ile ilgili kaynak buldum","label":0,"root":"teori","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bakmak çok lezzetli olmuş","label":0,"root":"bakmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Yapmak baya iyi","label":0,"root":"yapmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"okulda gömlek dersi çok zevkli geçti","label":0,"root":"gömlek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu belgeselde malikane çok güzel anlatılmış","label":0,"root":"malikane","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çok á̪̫.̶m̑.̈ ̗.̖̥̕b̩̥̼.̠|̖.̒t̗̩̃.̚ï̱̕mis bir hareket","label":1,"root":"am biti","difficulty":"extreme","transforms":["separator","zalgo","leet","suffix"],"category":"positive"}
+{"text":"senin kadar ppppisl!|{ birini tanımadım","label":1,"root":"pislik","difficulty":"hard","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"h+̗+̈+̯+e+̺+r+̚+g+̻+̨+̻+e+̇+̓+̤+l+́+̊+e+̒+̮ olmak için uğraşıyorsun sanki","label":1,"root":"hergele","difficulty":"medium","transforms":["zalgo","separator"],"category":"positive"}
+{"text":"amazon fabrikası yeni açıldı ilçede","label":0,"root":"amazon","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"b̌̋eeȩ̷̥y̝i̝ǹśị̖̍z̡̠̮cesine defol","label":1,"root":"beyinsiz","difficulty":"extreme","transforms":["zalgo","suffix","charRepeat"],"category":"positive"}
+{"text":"yazmak festivali bu yıl da var","label":0,"root":"yazmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"geçen hafta veritabanı ile ilgili bir kitap okudum","label":0,"root":"veritabanı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"salata nedir","label":0,"root":"salata","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dede bana ithalat anlatırdı çocukken","label":0,"root":"ithalat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya ç̬̂̈o̢̰m̵̆a̺ŗ̇ler","label":1,"root":"çomar","difficulty":"medium","transforms":["zalgo","suffix"],"category":"positive"}
+{"text":"samsung tatili planı yapıyoruz","label":0,"root":"samsung","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne yazık ki danggalakdin çıktı","label":1,"root":"dangalak","difficulty":"medium","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"or0ooo5pµ0cµğutim diyen birine ne denir","label":1,"root":"orospuçocuğu","difficulty":"extreme","transforms":["charRepeat","leet","suffix"],"category":"positive"}
+{"text":"çankırı nasıl kullanılır","label":0,"root":"çankırı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"toplantıda samsung konuştuk","label":0,"root":"samsung","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"9oet he2!fsin olduğu aşikar","label":1,"root":"göt herif","difficulty":"medium","transforms":["leet","suffix"],"category":"positive"}
+{"text":"doktor namus kullanmamı önerdi","label":0,"root":"namus","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu kadar $i|<erimten olunmaz ki","label":1,"root":"sikerim","difficulty":"medium","transforms":["leet","suffix"],"category":"positive"}
+{"text":"tüh seni y‍~‎a﻿~r⁤~^‌~⁣|{","label":1,"root":"yarak","difficulty":"hard","transforms":["separator","zwc","leet"],"category":"positive"}
+{"text":"bulmak nasıl yapılır","label":0,"root":"bulmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lan yarrağımıyeen {word2}","label":1,"root":"yarrağımıye","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"beklemek indirimi başlamış","label":0,"root":"beklemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu ne biçim taaaaşşak?","label":1,"root":"taşşak","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"yeni affedersin modeli","label":0,"root":"affedersin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Dürüst tatili planı yapıyoruz","label":0,"root":"dürüst","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"o video altında dăngoz yazan çok","label":1,"root":"dangoz","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"hayırlı nedir","label":0,"root":"hayırlı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya şaгlatân","label":1,"root":"şarlatan","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"yeni profesör projesi başarıyla tamamlandı","label":0,"root":"profesör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"g=1=|{musun sjsjsj","label":1,"root":"glk","difficulty":"hard","transforms":["separator","leet","suffix"],"category":"positive"}
+{"text":"izmir konusunda uzman bir arkadaşım var","label":0,"root":"izmir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Pişirme nasıl kullanılır","label":0,"root":"pişirme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"YA®rAk |<^F@|I ediyorsun farkında mısın","label":1,"root":"yarrak kafalı","difficulty":"hard","transforms":["case","leet"],"category":"positive"}
+{"text":"çok bey1|\\|âmipd3n bir hareket","label":1,"root":"beyinâmip","difficulty":"hard","transforms":["suffix","leet"],"category":"positive"}
+{"text":"yardımcı projesi ilerliyor","label":0,"root":"yardımcı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dallamaaleri LMAO","label":1,"root":"dallama","difficulty":"hard","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"aferin ne kadar orospuuuluk","label":1,"root":"orospuluk","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"adam dllma diye hakaret etti","label":1,"root":"dallama","difficulty":"medium","transforms":["vowelDrop"],"category":"positive"}
+{"text":"hay 9öţʋerеeeendіķ hay","label":1,"root":"götveren","difficulty":"extreme","transforms":["charRepeat","suffix","unicode","leet"],"category":"positive"}
+{"text":"adam arayıp orospuçocuğuca diyor telefonda","label":1,"root":"orospuçocuğu","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"ssssikeri m defol","label":1,"root":"sikerim","difficulty":"hard","transforms":["split","charRepeat"],"category":"positive"}
+{"text":"okumak parkına gittik","label":0,"root":"okumak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kes mqta","label":1,"root":"mq","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"seni yarrram ıyeca seni","label":1,"root":"yarramıye","difficulty":"hard","transforms":["charRepeat","split","suffix"],"category":"positive"}
+{"text":"domates konusu hakkında","label":0,"root":"domates","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kes müp7ez€|li","label":1,"root":"müptezel","difficulty":"hard","transforms":["leet","suffix"],"category":"positive"}
+{"text":"mesajda yarrammm yazıyor açıkça","label":1,"root":"yarram","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"amazon nasıl kullanılır","label":0,"root":"amazon","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"komşu istemek getirdi ikram etti çok tatlı","label":0,"root":"istemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"puahaha densiiz","label":1,"root":"densiz","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"siktirrr biri olduğunu biliyordum","label":1,"root":"siktir","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"sikтіmin olmaktan sıkılmadın mı?","label":1,"root":"siktimin","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"yarrak yemiş kaybol gözümden","label":1,"root":"yarrak yemiş","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"sınıfta arkadaşına göтvvvvêren demiş öğretmen duymuş","label":1,"root":"götveren","difficulty":"medium","transforms":["unicode","charRepeat"],"category":"positive"}
+{"text":"yüzkarası {word2} seni","label":1,"root":"yüzkarası","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"istanbul çok meşhur","label":0,"root":"istanbul","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lna kalpazan","label":1,"root":"kalpazan","difficulty":"medium","transforms":[],"category":"positive"}
+{"text":"nevşehir çeşitleri","label":0,"root":"nevşehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"añ🐒aոıssssiķeyimu k kdkdkd","label":1,"root":"ananısikeyim","difficulty":"extreme","transforms":["emojiMix","suffix","unicode","charRepeat","split"],"category":"positive"}
+{"text":"adam t‍ab‏anv‏ansenm‎is‌i⁢n gibi bir şey","label":1,"root":"tabanvansen","difficulty":"medium","transforms":["suffix","zwc"],"category":"positive"}
+{"text":"ama gezisi çok keyifliydi","label":0,"root":"ama","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gebertir demenin başka yolu yok","label":1,"root":"gebertir","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"küstahtir olmak için uğraşıyorsun sanki","label":1,"root":"küstah","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"serr2§§€rieyim be","label":1,"root":"serseri","difficulty":"extreme","transforms":["suffix","doubling","charRepeat","leet"],"category":"positive"}
+{"text":"ambalaj sezonu başladı","label":0,"root":"ambalaj","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sosyal medyada aslan hakkında güzel paylaşımlar gördüm","label":0,"root":"aslan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne biçim gggömülesii bu","label":1,"root":"gömülesi","difficulty":"hard","transforms":["doubling","charRepeat"],"category":"positive"}
+{"text":"referans baya iyi","label":0,"root":"referans","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne göt heeer1f adamsın","label":1,"root":"göt herif","difficulty":"medium","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"d̹̮̀o̴l̬a̷̳n̆ď̙̏ı̈̆̑r̷ı̃c̐̌ı̟̑̇lari denilecek bir durum","label":1,"root":"dolandırıcı","difficulty":"hard","transforms":["zalgo","suffix"],"category":"positive"}
+{"text":"vay kannnncıkacam vay","label":1,"root":"kancık","difficulty":"medium","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"bulut sipariş ettim","label":0,"root":"bulut","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yarışma sınavı vardı bugün","label":0,"root":"yarışma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"malum sipariş ettim","label":0,"root":"malum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"h̹ı̰m̳̉b̴ı̤̦l̮̍ demek ne kadar kolay değil mi","label":1,"root":"hımbıl","difficulty":"medium","transforms":["zalgo"],"category":"positive"}
+{"text":"yarım4|<ıllı gibi konuşma lütfen","label":1,"root":"yarımakıllı","difficulty":"easy","transforms":["leet"],"category":"positive"}
+{"text":"ac|\\|imitkis olmaya devam edersen engellerim","label":1,"root":"siktimin","difficulty":"hard","transforms":["leet","suffix","reverse"],"category":"positive"}
+{"text":"bıçak ne demek","label":0,"root":"bıçak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"göteborg nedir","label":0,"root":"göteborg","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"d+a+n+g+o+z amına koyim","label":1,"root":"dangoz","difficulty":"medium","transforms":["separator"],"category":"positive"}
+{"text":"ya dango🚫zlari ya","label":1,"root":"dangoz","difficulty":"medium","transforms":["emojiMix","suffix"],"category":"positive"}
+{"text":"DeFoL olduğunun farkında mısın?","label":1,"root":"defol","difficulty":"easy","transforms":["case"],"category":"positive"}
+{"text":"sosyal medyada ibnele yazmışlar","label":1,"root":"ibne","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"bu ne biçim hhapiyedinmiyim bir ortam","label":1,"root":"hapiyedin","difficulty":"hard","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"Bellek biliyor musun","label":0,"root":"bellek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yorumlarda yıkıkler yazmışlar yine","label":1,"root":"yıkık","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"ya2ra|<kaf@lıı1ler olduğu aşikar","label":1,"root":"yarrakkafalı","difficulty":"hard","transforms":["suffix","charRepeat","leet"],"category":"positive"}
+{"text":"ne kadar ut4|\\|maz bir yorum bu","label":1,"root":"utanmaz","difficulty":"easy","transforms":["leet"],"category":"positive"}
+{"text":"y'a'r''r'a'k'k'a'f'a'l'ı olmaktan sıkılmadın mı?","label":1,"root":"yarrakkafalı","difficulty":"hard","transforms":["separator","charRepeat"],"category":"positive"}
+{"text":"erdem rekoru kırıldı","label":0,"root":"erdem","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çarşıda bıçak satan yeni bir dükkan var","label":0,"root":"bıçak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tez siparişi verdim yarın gelecek","label":0,"root":"tez","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bugün donanım aldım","label":0,"root":"donanım","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çocuklar zürafa kursuna başladı","label":0,"root":"zürafa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bu sene taşımacılık çok bereketli oldu","label":0,"root":"taşımacılık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"herkes onu siktimin diye tanıyor","label":1,"root":"siktimin","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"mesres demenin başka yolu yok","label":1,"root":"sersem","difficulty":"medium","transforms":["reverse"],"category":"positive"}
+{"text":"biber tatili planı yapıyoruz","label":0,"root":"biber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yeni müzik projesi başarıyla tamamlandı","label":0,"root":"müzik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu tarz d̢̓ö̢̕l̋i̜̓̚c̫̠̙ȩm̰̫̅ insanlar yüzünden","label":1,"root":"döl","difficulty":"hard","transforms":["suffix","zalgo"],"category":"positive"}
+{"text":"yardımcı teknolojisi hızla gelişiyor","label":0,"root":"yardımcı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"şırnak festivali bu yıl da var","label":0,"root":"şırnak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"mezarınıkazarım olmaktan sıkılmadın mı?","label":1,"root":"mezarınıkazarım","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"itina herkeste var artık","label":0,"root":"itina","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"y@laka seni gebertirim","label":1,"root":"yalaka","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"samsung çok tutuldu son zamanlarda","label":0,"root":"samsung","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Tatlı tatili planı yapıyoruz","label":0,"root":"tatlı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amateur hakkında ne biliyorsun","label":0,"root":"amateur","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"helal olsun dÜMenC!","label":1,"root":"dümenci","difficulty":"medium","transforms":["leet","case"],"category":"positive"}
+{"text":"haysiyet sipariş ettim","label":0,"root":"haysiyet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yorumlarda am!|\\|ak0ydvgumun|\\||\\|mus yazmışlar yine","label":1,"root":"amınakoyduğumun","difficulty":"hard","transforms":["charRepeat","leet","suffix"],"category":"positive"}
+{"text":"herggeleca kaybol gözümden","label":1,"root":"hergele","difficulty":"medium","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"hay һ̖̖̓ǎp̚ịy̌́̅ë̍̊d̤̄i̜ǹ̩â̫̜̚y̷̍̕î̦̥m̉̅","label":1,"root":"hapiyedin","difficulty":"hard","transforms":["suffix","unicode","zalgo"],"category":"positive"}
+{"text":"bu netflix çok güzel","label":0,"root":"netflix","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bugün marketten çalışmak aldım eve geldim","label":0,"root":"çalışmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Malzeme duymuşsundur","label":0,"root":"malzeme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karşı takımın taraftarları YAKILASI diye bağırdı","label":1,"root":"yakılası","difficulty":"easy","transforms":["case"],"category":"positive"}
+{"text":"tabak alanında uzmanlaşmak istiyorum","label":0,"root":"tabak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"samsung siparişi verdim yarın gelecek","label":0,"root":"samsung","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kes sesini gö⁣tüy⁡emiş","label":1,"root":"götüyemiş","difficulty":"easy","transforms":["zwc"],"category":"positive"}
+{"text":"fazilet gördün mü","label":0,"root":"fazilet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ampul baya iyi","label":0,"root":"ampul","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"taşımacılık müzesini ziyaret etmek istiyorum","label":0,"root":"taşımacılık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gtVSSSSn djdjdj","label":1,"root":"gtvsn","difficulty":"hard","transforms":["case","charRepeat"],"category":"positive"}
+{"text":"naber sektörü büyüyor","label":0,"root":"naber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"b̒ȇ̹̐e̎̓̊y̴̜i̺̬̇n̸̻̍â̜̣m̭̺i̫p̹̋́ diyen birine ne denir","label":1,"root":"beyinâmip","difficulty":"hard","transforms":["charRepeat","zalgo"],"category":"positive"}
+{"text":"siktiğimcik olm","label":1,"root":"siktiğim","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"ne kadar YaRa|< kÜr€|<tIk bir yorum bu","label":1,"root":"yarak kürek","difficulty":"hard","transforms":["leet","suffix","case"],"category":"positive"}
+{"text":"bipiç dersine girdim","label":0,"root":"bipiç","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karınca sınavı vardı bugün","label":0,"root":"karınca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dolum fiyatları son zamanlarda arttı","label":0,"root":"dolum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lna ensenibbulurumca","label":1,"root":"ensenibulurum","difficulty":"hard","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"am1|\\|@ kodumu|\\| ocvğu dkdkdk","label":1,"root":"amına kodumun çocuğu","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"orman rekoru kırıldı","label":0,"root":"orman","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"otobüste adama mkce dediler kavga çıktı","label":1,"root":"mk","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"bahçede görev yetiştirmeye başladım","label":0,"root":"görev","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kaaahpe olduğu aşikar","label":1,"root":"kahpe","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"o adam tam bir sikiyor gibi davranıyor","label":1,"root":"sikiyor","difficulty":"medium","transforms":[],"category":"positive"}
+{"text":"lobide herkes y̷̘̬4̴̡̚2̪̩̩̲®̵̊̍^̰̰|̲̫̊{̂ yazıyor","label":1,"root":"yarrak","difficulty":"extreme","transforms":["leet","zalgo","doubling"],"category":"positive"}
+{"text":"biber hakkında makale okudum","label":0,"root":"biber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu nasılsın çok güzel","label":0,"root":"nasılsın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"düzce duymuşsundur","label":0,"root":"düzce","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Dolunay dersine girdim","label":0,"root":"dolunay","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Ankara hakkında bilgi","label":0,"root":"ankara","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne biçim s*i*k bu","label":1,"root":"sik","difficulty":"medium","transforms":["separator"],"category":"positive"}
+{"text":"puahaha a|a|a|m|ı|n|a|g|o|y|i|m","label":1,"root":"amınagoyim","difficulty":"hard","transforms":["charRepeat","separator"],"category":"positive"}
+{"text":"anlamak ihracatı arttı","label":0,"root":"anlamak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"müptezelyim olmaktan sıkılmadın mı?","label":1,"root":"müptezel","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"o bellek harika","label":0,"root":"bellek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"embesil diye tweet atıp silmiş","label":1,"root":"embesil","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"dallllama deme bana öyle şeyler","label":1,"root":"dallama","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"m|a|g|a|n|dddd|a|e|c|e|m lol","label":1,"root":"maganda","difficulty":"hard","transforms":["suffix","separator","charRepeat"],"category":"positive"}
+{"text":"ne yazık ki yu‏ż﻿|{‍^⁤^^^r‌@‌5ıcu çıktı","label":1,"root":"yüzkarası","difficulty":"extreme","transforms":["leet","charRepeat","suffix","unicode","zwc"],"category":"positive"}
+{"text":"oyunda bana зıskalhà dediler","label":1,"root":"ahlaksız","difficulty":"medium","transforms":["unicode","reverse"],"category":"positive"}
+{"text":"sınıfta arkadaşına ibne demiş öğretmen duymuş","label":1,"root":"ibne","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"orman festivali bu yıl da var","label":0,"root":"orman","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ulan seni hëŕ﻿ğe⁠l⁣el‎i⁢k","label":1,"root":"hergele","difficulty":"extreme","transforms":["suffix","unicode","zwc"],"category":"positive"}
+{"text":"internetten yedekleme hakkında araştırma yaptım","label":0,"root":"yedekleme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"nevşehir hakkında ne düşünüyorsun","label":0,"root":"nevşehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sunucu teknolojisi gelişiyor","label":0,"root":"sunucu","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Yemek nasıl yapılır","label":0,"root":"yemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kėřŕһañelar herif seni","label":1,"root":"kerhane","difficulty":"hard","transforms":["suffix","charRepeat","unicode"],"category":"positive"}
+{"text":"sïktíŕťmé sjsjsj","label":1,"root":"siktirtme","difficulty":"easy","transforms":["unicode"],"category":"positive"}
+{"text":"ne c^|\\|ı|\\|14lı21mli bir insan bu?","label":1,"root":"canınıalırım","difficulty":"hard","transforms":["suffix","leet"],"category":"positive"}
+{"text":"malikane raporunu hazırladım","label":0,"root":"malikane","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dünyada senden ħayýууaѕıże biri yok","label":1,"root":"hayasız","difficulty":"hard","transforms":["charRepeat","unicode","suffix"],"category":"positive"}
+{"text":"bugün marketten iyi akşamlar aldım eve geldim","label":0,"root":"iyi akşamlar","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"papağan projesi ilerliyor","label":0,"root":"papağan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Μ*K*A*A*A*A*L*@ deyince kimse şaşırmadı","label":1,"root":"ukala","difficulty":"extreme","transforms":["leet","case","charRepeat","separator"],"category":"positive"}
+{"text":"Ş:A:R:L:A :7:@:|:\\:| ya","label":1,"root":"şarlatan","difficulty":"extreme","transforms":["leet","separator","split","case"],"category":"positive"}
+{"text":"göktürk mevsimi geldi çok heyecanlıyım","label":0,"root":"göktürk","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"naber nasıl yapılır","label":0,"root":"naber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Amazon çok meşhur","label":0,"root":"amazon","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"7ab8banv^nsenmiy1z djdjdj","label":1,"root":"tabanvansen","difficulty":"hard","transforms":["charRepeat","suffix","leet"],"category":"positive"}
+{"text":"malik mağazasından alışveriş yaptım","label":0,"root":"malik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hayatımda gördüğüm en g̡̙e̞̙̙b̄e̗̫r̺̬e̮̥̋s̘i̹̎̅ỹĭ̸̕ insansın","label":1,"root":"geberesiyi","difficulty":"medium","transforms":["zalgo"],"category":"positive"}
+{"text":"puahaha ăɱıոakořumalim","label":1,"root":"amınakorum","difficulty":"medium","transforms":["unicode","suffix"],"category":"positive"}
+{"text":"helal olsun YARR@MIYE","label":1,"root":"yarramıye","difficulty":"medium","transforms":["leet","case"],"category":"positive"}
+{"text":"tatilde etmek gezisi yaptık harika bir deneyimdi","label":0,"root":"etmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ulan seni yarrakkkk kafalı","label":1,"root":"yarrak kafalı","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"Domates sınavı vardı bugün","label":0,"root":"domates","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gitmek çok güzel bir yer","label":0,"root":"gitmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bugün yapmak aldım","label":0,"root":"yapmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Sk7®GtT|ari lan","label":1,"root":"sktrgt","difficulty":"extreme","transforms":["charRepeat","case","suffix","leet"],"category":"positive"}
+{"text":"kelebek hakkında makale okudum","label":0,"root":"kelebek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yobaze biri olduğunu biliyordum","label":1,"root":"yobaz","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"yeni siklet projesi başarıyla tamamlandı","label":0,"root":"siklet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"$|{mmştn denilecek bir durum","label":1,"root":"sikmiş","difficulty":"extreme","transforms":["charRepeat","suffix","vowelDrop","leet"],"category":"positive"}
+{"text":"okumak rekoru kırıldı","label":0,"root":"okumak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"helal olsun d‎a⁤ll‌amain","label":1,"root":"dallama","difficulty":"hard","transforms":["zwc","suffix"],"category":"positive"}
+{"text":"masif çok meşhur","label":0,"root":"masif","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amper bugün taze gelmiş","label":0,"root":"amper","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"AM lan","label":1,"root":"am","difficulty":"medium","transforms":["case"],"category":"positive"}
+{"text":"düşünmek satışa çıkmış","label":0,"root":"düşünmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"senin kadar daltaşak birini tanımadım","label":1,"root":"daltaşak","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"yeni dağ modeli","label":0,"root":"dağ","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay hayasız","label":1,"root":"hayasız","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"sinirlenince as⚠️ıla sı diye bağırdı","label":1,"root":"asılası","difficulty":"hard","transforms":["emojiMix","split"],"category":"positive"}
+{"text":"puahaha öld⁢ürüc‏e⁠m","label":1,"root":"öldürücem","difficulty":"medium","transforms":["zwc"],"category":"positive"}
+{"text":"boksör yarışmasına katılmayı düşünüyorum","label":0,"root":"boksör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"O profesör harika","label":0,"root":"profesör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hadi tkmkçı","label":1,"root":"tokmakçı","difficulty":"easy","transforms":["vowelDrop"],"category":"positive"}
+{"text":"mankafadaaaan deme bana öyle şeyler","label":1,"root":"mankafa","difficulty":"hard","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"Vermek tatili planı yapıyoruz","label":0,"root":"vermek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"s﻿ä⁤k‌soсi kelimesinin canlı hali","label":1,"root":"saksoci","difficulty":"medium","transforms":["zwc","unicode"],"category":"positive"}
+{"text":"naber festivali bu yıl da düzenleniyor","label":0,"root":"naber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"AMčíUŷOŕ herif seni","label":1,"root":"amcı","difficulty":"extreme","transforms":["suffix","case","unicode"],"category":"positive"}
+{"text":"ne yazık ki siktiiiiğimin çıktı","label":1,"root":"siktiğimin","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"zeytin çok lezzetli olmuş","label":0,"root":"zeytin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"iyi akşamlar sezonu başladı","label":0,"root":"iyi akşamlar","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tokat parkına gittik","label":0,"root":"tokat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dürüst projesi ilerliyor","label":0,"root":"dürüst","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"laboratuvar satışa çıkmış","label":0,"root":"laboratuvar","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam amınakkkkoyim diye mesaj atmış gece gece","label":1,"root":"amınakoyim","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"samsung tamircisi bulmak zor oldu ama hallettik","label":0,"root":"samsung","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"süpersin tam bir 6ö+v€®ic!","label":1,"root":"götverici","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"lan UtaNmAz","label":1,"root":"utanmaz","difficulty":"medium","transforms":["case"],"category":"positive"}
+{"text":"bellek hakkında ne düşünüyorsun","label":0,"root":"bellek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay GerZEK vay","label":1,"root":"gerzek","difficulty":"easy","transforms":["case"],"category":"positive"}
+{"text":"yaratık çok tutuldu son zamanlarda","label":0,"root":"yaratık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"metodoloji nasıl kullanılır","label":0,"root":"metodoloji","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"manyaak {word2} seni","label":1,"root":"manyak","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"veritabanı çok meşhur","label":0,"root":"veritabanı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"SeRsEɱ sjsjsj","label":1,"root":"sersem","difficulty":"medium","transforms":["case","unicode"],"category":"positive"}
+{"text":"vay be ne gtttt","label":1,"root":"gt","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"ö‍k⁠vz seni","label":1,"root":"öküz","difficulty":"hard","transforms":["leet","zwc"],"category":"positive"}
+{"text":"am1näk0ɗvmµ|\\\\|Ɗıг dkdkdk","label":1,"root":"amınakodumun","difficulty":"extreme","transforms":["suffix","leet","unicode","charRepeat"],"category":"positive"}
+{"text":"ya y^rra|{ yemişda ya","label":1,"root":"yarrak yemiş","difficulty":"medium","transforms":["suffix","leet"],"category":"positive"}
+{"text":"Izmir konusunu ele alacağız","label":0,"root":"izmir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bursa hakkında makale okudum","label":0,"root":"bursa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Malikane çeşitleri","label":0,"root":"malikane","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"internet sitesinde orman hakkında güzel bir yazı var","label":0,"root":"orman","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu kadar s\/̮\/̌\/i\/̟\/̰\/̝\/k\/̧\/|\/ \/̤\/́\/c\/̪\/̎\/̔\/€\/̺\/̞\/m\/̲\/̭\/̄\/l\/u bir yorum görmedim","label":1,"root":"sikicem","difficulty":"extreme","transforms":["zalgo","split","suffix","leet","separator"],"category":"positive"}
+{"text":"g̴̻e̢̗b̭̏ȇ̚r̹̔̂t̶ī̡̤c̃ǎ̗m̪ seni bulursam","label":1,"root":"geberticam","difficulty":"easy","transforms":["zalgo"],"category":"positive"}
+{"text":"kkkepaze xd","label":1,"root":"kepaze","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"internet sitesinde google hakkında güzel bir yazı var","label":0,"root":"google","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"veritabanı konusunu ele alacağız","label":0,"root":"veritabanı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kuş çok lezzetli olmuş","label":0,"root":"kuş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ñi§1mĺis€ßme deme bana öyle şeyler","label":1,"root":"embesil","difficulty":"extreme","transforms":["suffix","leet","unicode","reverse"],"category":"positive"}
+{"text":"düşünmek dersine girdim","label":0,"root":"düşünmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"duymak sezonu başladı","label":0,"root":"duymak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"mesajda h-a-s-s-|-|-<-t-i-r yazıyor açıkça","label":1,"root":"hassiktir","difficulty":"medium","transforms":["leet","separator"],"category":"positive"}
+{"text":"bu kadar g832ti1esiilar||\\| bir yorum görmedim","label":1,"root":"gebertilesi","difficulty":"extreme","transforms":["vowelDrop","suffix","charRepeat","leet"],"category":"positive"}
+{"text":"amen festivali bu yıl da var","label":0,"root":"amen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lan yrкķ {word2}","label":1,"root":"yrk","difficulty":"medium","transforms":["charRepeat","unicode"],"category":"positive"}
+{"text":"toplantıda teşekkürler konuştuk","label":0,"root":"teşekkürler","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"namusssssuz denilecek bir durum","label":1,"root":"namussuz","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"takımın hocasına beyiiinsizil diye bağırıyorlar","label":1,"root":"beyinsiz","difficulty":"medium","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"ahahah A̼̔M̫̌M̹̌Q̣̐","label":1,"root":"amq","difficulty":"extreme","transforms":["charRepeat","case","zalgo"],"category":"positive"}
+{"text":"g0+0$oğl vvm kelimesini kullanmak doğru değil","label":1,"root":"götoşoğlu","difficulty":"extreme","transforms":["suffix","leet","split"],"category":"positive"}
+{"text":"tam bir n'a'm'u's's'u'z","label":1,"root":"namussuz","difficulty":"medium","transforms":["separator"],"category":"positive"}
+{"text":"bakmak konusu hakkında","label":0,"root":"bakmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"nasıl bu kadar |{!takıllll1ı olabilirsin?","label":1,"root":"kıtakıllı","difficulty":"medium","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"o video altında öoooroşpůsa yazan çok","label":1,"root":"orospu","difficulty":"extreme","transforms":["charRepeat","suffix","unicode"],"category":"positive"}
+{"text":"Çatal satışa çıkmış","label":0,"root":"çatal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"simpozyum festivali bu yıl da düzenleniyor","label":0,"root":"simpozyum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hayatımda gördüğüm en götveren insansın","label":1,"root":"götveren","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"seni t\\a\\ş\\a\\a\\a\\a\\k seni","label":1,"root":"taşak","difficulty":"medium","transforms":["charRepeat","separator"],"category":"positive"}
+{"text":"dolar hakkında makale okudum","label":0,"root":"dolar","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"soğan duymuşsundur","label":0,"root":"soğan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"c=a=n=ı=n=ı=a=l=ı=r=ı=m=d=e olm","label":1,"root":"canınıalırım","difficulty":"medium","transforms":["suffix","separator"],"category":"positive"}
+{"text":"gaziantep alanında uzmanlaşmak istiyorum","label":0,"root":"gaziantep","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sen ý̡̼ả̼̉ṟ̆r̰̻ā̖̦ğ̸̋ı̳̋m̆ı̴̀̕y̮̻̑ē̢̯ mısın?","label":1,"root":"yarrağımıye","difficulty":"easy","transforms":["zalgo"],"category":"positive"}
+{"text":"ampul doğası muhteşem","label":0,"root":"ampul","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne yazık ki götoşoğğlumisin çıktı","label":1,"root":"götoşoğlu","difficulty":"medium","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"duymak nedir","label":0,"root":"duymak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya m̺̬ȁ̼y̪̟m̔̑̚v̙̙̙n̗ ya","label":1,"root":"maymun","difficulty":"hard","transforms":["leet","zalgo","charRepeat"],"category":"positive"}
+{"text":"hs|<+irrrr denilecek bir durum","label":1,"root":"hsktir","difficulty":"hard","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"helal olsun DaLt4şAk","label":1,"root":"daltaşak","difficulty":"hard","transforms":["leet","case"],"category":"positive"}
+{"text":"bu yıl adana üretimi rekor kırdı","label":0,"root":"adana","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"m‍aĺčük dkdkdk","label":1,"root":"mal","difficulty":"hard","transforms":["zwc","suffix","unicode"],"category":"positive"}
+{"text":"lan sikerim {word2}","label":1,"root":"sikerim","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"t====a=ş=a=k= =g=e=ç=m=e lan","label":1,"root":"taşak geçme","difficulty":"hard","transforms":["separator","charRepeat"],"category":"positive"}
+{"text":"hayatımda gördüğüm en AmInAкOɗUmцոten insansın","label":1,"root":"amınakodumun","difficulty":"hard","transforms":["case","unicode","suffix"],"category":"positive"}
+{"text":"akşam konsept yaptık çok güzel oldu","label":0,"root":"konsept","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"s1k|{|cem seni bulursam","label":1,"root":"sikicem","difficulty":"hard","transforms":["charRepeat","leet"],"category":"positive"}
+{"text":"tam bir gggavat","label":1,"root":"gavat","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"görüşürüz ile ilgili podcast dinliyorum son günlerde","label":0,"root":"görüşürüz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"canınıalırım diye dalga geçiyorlar","label":1,"root":"canınıalırım","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"sen ne ikiyüzlü birisin","label":1,"root":"ikiyüzlü","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"akşam araştırma yaptık çok güzel oldu","label":0,"root":"araştırma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lna yrk","label":1,"root":"yrk","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"bu yıl söylemek üretimi rekor kırdı","label":0,"root":"söylemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Muş konferansına katıldım","label":0,"root":"muş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ameliyat konusunda uzman bir arkadaşım var","label":0,"root":"ameliyat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gömül€sier sözünü duymak istemiyorum","label":1,"root":"gömülesi","difficulty":"medium","transforms":["leet","suffix"],"category":"positive"}
+{"text":"kaplan tatili planı yapıyoruz","label":0,"root":"kaplan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dün gitmek gördüm","label":0,"root":"gitmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dün deniz gördüm","label":0,"root":"deniz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam alık gibi bir şey","label":1,"root":"alık","difficulty":"medium","transforms":[],"category":"positive"}
+{"text":"MEZARINIKAZARIMuk biri olduğunu biliyordum","label":1,"root":"mezarınıkazarım","difficulty":"medium","transforms":["case","suffix"],"category":"positive"}
+{"text":"bu ne biçim yakılası bir ortam","label":1,"root":"yakılası","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"yozgat konusu hakkında","label":0,"root":"yozgat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"algoritma projesi ilerliyor","label":0,"root":"algoritma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"affedersin ile ilgili bir yazı","label":0,"root":"affedersin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"doluluk konusu hakkında","label":0,"root":"doluluk","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kaplumbağa gezisi çok keyifliydi","label":0,"root":"kaplumbağa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Toplantıda prosedür konuştuk","label":0,"root":"prosedür","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Hafta sonu amatör etkinliğine gideceğiz","label":0,"root":"amatör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"malzeme konusunu ele alacağız","label":0,"root":"malzeme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yaratık herkeste var artık","label":0,"root":"yaratık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lan GÖ7VERIC!","label":1,"root":"götverici","difficulty":"medium","transforms":["case","leet"],"category":"positive"}
+{"text":"Amfibi ne demek","label":0,"root":"amfibi","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çomar seni bulursam","label":1,"root":"çomar","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"görev satışa çıkmış","label":0,"root":"görev","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ameliyat sunumunu yaptım","label":0,"root":"ameliyat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"densiz denilecek bir durum","label":1,"root":"densiz","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"hayatımda gördüğüm en a~m~ı~n~a~k~o~d~u~m~u~n insansın","label":1,"root":"amınakodumun","difficulty":"medium","transforms":["separator"],"category":"positive"}
+{"text":"ameliyat sektörü büyüyor","label":0,"root":"ameliyat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne tşağımye adamsın","label":1,"root":"taşağımıye","difficulty":"medium","transforms":["vowelDrop"],"category":"positive"}
+{"text":"penguen festivali bu yıl da var","label":0,"root":"penguen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"òçici kaybol gözümden","label":1,"root":"oç","difficulty":"hard","transforms":["unicode","suffix"],"category":"positive"}
+{"text":"tribünde göötlek diye tezahürat yapıyorlar","label":1,"root":"götlek","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"Bahçe indirimi başlamış","label":0,"root":"bahçe","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Makale sunumunu yaptım","label":0,"root":"makale","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dünya şarrlatan dolu","label":1,"root":"şarlatan","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"karşı takımın taraftarları g96g0tv3rena diye bağırdı","label":1,"root":"götveren","difficulty":"hard","transforms":["charRepeat","leet","suffix"],"category":"positive"}
+{"text":"internetten taşımacılık hakkında araştırma yaptım","label":0,"root":"taşımacılık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bravo ne g\/e\/r\/z\/ee\/k bir iş","label":1,"root":"gerzek","difficulty":"hard","transforms":["separator","doubling"],"category":"positive"}
+{"text":"tam bir u̫ţ̎̎a̮nṅm̷̳̏ ̪̆ả̱̑z̘̀̊","label":1,"root":"utanmaz","difficulty":"hard","transforms":["split","zalgo","charRepeat"],"category":"positive"}
+{"text":"seni O\/̶\/̺\/R\/̨\/̬\/̞\/O\/̼\/S\/̟\/̕\/P\/̤\/̋\/U\/̎ seni","label":1,"root":"orospu","difficulty":"extreme","transforms":["zalgo","separator","case"],"category":"positive"}
+{"text":"Bokser projesi ilerliyor","label":0,"root":"bokser","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kes sesini yarrakkafalıtan","label":1,"root":"yarrakkafalı","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"aptal diye tweet atıp silmiş","label":1,"root":"aptal","difficulty":"medium","transforms":[],"category":"positive"}
+{"text":"ne biçim to||||{мakçıèyïm bu","label":1,"root":"tokmakçı","difficulty":"extreme","transforms":["leet","suffix","unicode","charRepeat"],"category":"positive"}
+{"text":"affedersin manzarası harika","label":0,"root":"affedersin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yaratık siparişi verdim yarın gelecek","label":0,"root":"yaratık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yoobazcuk demek ne kadar kolay değil mi","label":1,"root":"yobaz","difficulty":"extreme","transforms":["suffix","charRepeat","vowelDrop"],"category":"positive"}
+{"text":"Taşınmaz mağazası nerede","label":0,"root":"taşınmaz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ammmı|\\|4korum olmaktan sıkılmadın mı?","label":1,"root":"amınakorum","difficulty":"hard","transforms":["charRepeat","leet"],"category":"positive"}
+{"text":"gт yazan yorumu sildiler ama ss aldım","label":1,"root":"gt","difficulty":"medium","transforms":["case","unicode"],"category":"positive"}
+{"text":"tüh seni ş̼a̵p̵̚ş̎a̚l̹","label":1,"root":"şapşal","difficulty":"medium","transforms":["zalgo"],"category":"positive"}
+{"text":"dün akademi gördüm","label":0,"root":"akademi","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hahahah ƴarŕaкlar","label":1,"root":"yarrak","difficulty":"hard","transforms":["suffix","unicode"],"category":"positive"}
+{"text":"internetten dürüst hakkında araştırma yaptım","label":0,"root":"dürüst","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tam bir Å̰M̰̈̐I̬̍|̡̲̟\\̗̘̂|̵̲̦|̀\\̝̓̎|̍̊Ň̤N̞̝̈4̓̉ĶO̴̘̙Ŷ̯Ì̹̕M̈̄","label":1,"root":"amınakoyim","difficulty":"extreme","transforms":["charRepeat","leet","zalgo","case"],"category":"positive"}
+{"text":"karşı takımın taraftarları s @htekarlı|< diye bağırdı","label":1,"root":"sahtekarlık","difficulty":"hard","transforms":["leet","split"],"category":"positive"}
+{"text":"mvpt3zeeel herif seni","label":1,"root":"müptezel","difficulty":"hard","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"ne biçim sktrgt bu","label":1,"root":"sktrgt","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"dolum dersine girdim","label":0,"root":"dolum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"deney ne demek","label":0,"root":"deney","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Tatilde konferans gezisi yaptık harika bir deneyimdi","label":0,"root":"konferans","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu tarz d'e'n'ś'і'z's'í insanlar yüzünden","label":1,"root":"densiz","difficulty":"hard","transforms":["suffix","separator","unicode"],"category":"positive"}
+{"text":"vay k^yß01 vay","label":1,"root":"kaybol","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"bartın sezonu başladı","label":0,"root":"bartın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"istanbul gördün mü","label":0,"root":"istanbul","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sikke hakkında bilgi","label":0,"root":"sikke","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bolu manzarası harika","label":0,"root":"bolu","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"toplantıda namus konusunu tartıştık verimli geçti","label":0,"root":"namus","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"doluluk ile ilgili bir yazı","label":0,"root":"doluluk","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya a_м_ı_n_á_k_o_ԁ_ū_m_ù_n_т_ë","label":1,"root":"amınakodumun","difficulty":"extreme","transforms":["suffix","unicode","separator"],"category":"positive"}
+{"text":"sosyal medyada fazilet hakkında güzel paylaşımlar gördüm","label":0,"root":"fazilet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Çorba tavsiye ederim","label":0,"root":"çorba","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"akşam algoritma yaptık çok güzel oldu","label":0,"root":"algoritma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"istanbul teknolojisi gelişiyor","label":0,"root":"istanbul","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"d̃ü̓r̯̅z̘̃ü̳̱̑ţı̃̏̅r̥̘̃ herif seni","label":1,"root":"dürzü","difficulty":"medium","transforms":["suffix","zalgo"],"category":"positive"}
+{"text":"dünyada senden tas^91mıy3icem biri yok","label":1,"root":"taşağımıye","difficulty":"medium","transforms":["suffix","leet"],"category":"positive"}
+{"text":"denSiZ LMAO","label":1,"root":"densiz","difficulty":"medium","transforms":["case"],"category":"positive"}
+{"text":"tribünde geberticam diye tezahürat yapıyorlar","label":1,"root":"geberticam","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"bolu ihracatı arttı","label":0,"root":"bolu","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam arayıp AmInAkOdUmmmmUn diyor telefonda","label":1,"root":"amınakodumun","difficulty":"medium","transforms":["case","charRepeat"],"category":"positive"}
+{"text":"görev doğası muhteşem","label":0,"root":"görev","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu belgeselde naber çok güzel anlatılmış","label":0,"root":"naber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"toplulukta ēnsenibцlцřumlu yazmak ban sebebi","label":1,"root":"ensenibulurum","difficulty":"medium","transforms":["unicode","suffix"],"category":"positive"}
+{"text":"değerlendirme hakkında ne düşünüyorsun","label":0,"root":"değerlendirme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kàññsıźsin diye dalga geçiyorlar","label":1,"root":"kansız","difficulty":"hard","transforms":["unicode","doubling","suffix"],"category":"positive"}
+{"text":"yeni tencere projesi başarıyla tamamlandı","label":0,"root":"tencere","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gotik tavsiye ederim","label":0,"root":"gotik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"o video altında am çullaaaaması yazan çok","label":1,"root":"am çullaması","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"amatör ödevini bitirdim","label":0,"root":"amatör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çok m1y^ko$€|‍\\|ü+e﻿o‍gleri bir hareket","label":1,"root":"götünesokayım","difficulty":"extreme","transforms":["leet","reverse","zwc","suffix"],"category":"positive"}
+{"text":"whatsapp grubunda götllek yazıyor sürekli","label":1,"root":"götlek","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"k‌a⁣ş⁣aar olm","label":1,"root":"kaşar","difficulty":"medium","transforms":["charRepeat","zwc"],"category":"positive"}
+{"text":"muş duymuşsundur","label":0,"root":"muş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"pçsi seni gidi","label":1,"root":"pç","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"Itina tatili planı yapıyoruz","label":0,"root":"itina","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bulmak ihracatı arttı","label":0,"root":"bulmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu belgeselde gitmek çok güzel anlatılmış","label":0,"root":"gitmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"güvercin biliyor musun","label":0,"root":"güvercin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tava gördün mü","label":0,"root":"tava","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"toplulukta götvereneyim yazmak ban sebebi","label":1,"root":"götveren","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"götttverici herif","label":1,"root":"götverici","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"anneannem nehir yapmayı çok seviyor","label":0,"root":"nehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"am6tir lol","label":1,"root":"amg","difficulty":"medium","transforms":["leet","suffix"],"category":"positive"}
+{"text":"amınakodumunda olduğunun farkında mısın?","label":1,"root":"amınakodumun","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"kedi bugün taze gelmiş","label":0,"root":"kedi","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bugün gotik aldım","label":0,"root":"gotik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sunum sezonu başladı","label":0,"root":"sunum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu tarz ănaňısķimţïŕ insanlar yüzünden","label":1,"root":"ananıskim","difficulty":"medium","transforms":["suffix","unicode"],"category":"positive"}
+{"text":"alçãķle seni gidi","label":1,"root":"alçak","difficulty":"medium","transforms":["unicode","suffix"],"category":"positive"}
+{"text":"bu kadar sikkik olunmaz ki","label":1,"root":"sikik","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"göl konferansına katıldım","label":0,"root":"göl","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam geldi yüzüme karşı |\\|amussvzti dedi","label":1,"root":"namussuz","difficulty":"medium","transforms":["leet","suffix"],"category":"positive"}
+{"text":"tam bir ɗaոgôzzz","label":1,"root":"dangoz","difficulty":"hard","transforms":["unicode","charRepeat"],"category":"positive"}
+{"text":"tüh seni l*a*m","label":1,"root":"mal","difficulty":"medium","transforms":["separator","reverse"],"category":"positive"}
+{"text":"adam s̅á̟k̠̼̔s̸̡̫o̟c̝̓u̖ diye hakaret etti","label":1,"root":"saksocu","difficulty":"easy","transforms":["zalgo"],"category":"positive"}
+{"text":"seni k:ı: :t:a:k:ı:l:l:ı:c:u seni","label":1,"root":"kıtakıllı","difficulty":"extreme","transforms":["suffix","split","separator"],"category":"positive"}
+{"text":"hadi yal4|{4mus","label":1,"root":"yalaka","difficulty":"medium","transforms":["suffix","leet"],"category":"positive"}
+{"text":"aferin ne kadar s!kkk+|min","label":1,"root":"siktimin","difficulty":"hard","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"sen h^y@$$$$ız mısın?","label":1,"root":"hayasız","difficulty":"medium","transforms":["leet","charRepeat"],"category":"positive"}
+{"text":"konferans parkına gittik","label":0,"root":"konferans","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bmw çok meşhur","label":0,"root":"bmw","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay be ne aĺlahвelanıveršinԁâ","label":1,"root":"allahbelanıversin","difficulty":"medium","transforms":["suffix","unicode"],"category":"positive"}
+{"text":"çiçek nasıl kullanılır","label":0,"root":"çiçek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gitmek konusunda uzman bir arkadaşım var","label":0,"root":"gitmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"maga|\\|d4 diyen birine ne denir","label":1,"root":"maganda","difficulty":"easy","transforms":["leet"],"category":"positive"}
+{"text":"Gotik almayı düşünüyorum","label":0,"root":"gotik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sınıfta arkadaşına oгoѕрuçocùğù demiş öğretmen duymuş","label":1,"root":"orospuçocuğu","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"karakter dersine girdim","label":0,"root":"karakter","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"forumda birisi 5^|<s0ci1erin diyor herkese","label":1,"root":"saksoci","difficulty":"hard","transforms":["suffix","leet"],"category":"positive"}
+{"text":"karınca teknolojisi gelişiyor","label":0,"root":"karınca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bugün samsung aldım","label":0,"root":"samsung","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hayatımda gördüğüm en d=e=n=s=i=z insansın","label":1,"root":"densiz","difficulty":"medium","transforms":["separator"],"category":"positive"}
+{"text":"piçkurusu dkdkdk","label":1,"root":"piçkurusu","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"senin kadar KAHPE birini tanımadım","label":1,"root":"kahpe","difficulty":"easy","transforms":["case"],"category":"positive"}
+{"text":"ibbneliksin olduğu aşikar","label":1,"root":"ibnelik","difficulty":"medium","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"nasıl bu kadar ѕÏķiyööг olabilirsin?","label":1,"root":"sikiyor","difficulty":"hard","transforms":["unicode","charRepeat","case"],"category":"positive"}
+{"text":"d~€~n~y~0~|~^ ya","label":1,"root":"denyo","difficulty":"hard","transforms":["suffix","leet","separator"],"category":"positive"}
+{"text":"amateur ihracatı arttı","label":0,"root":"amateur","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"pilav hakkında makale okudum","label":0,"root":"pilav","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"programlama raporunu hazırladım","label":0,"root":"programlama","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amil çok tutuldu son zamanlarda","label":0,"root":"amil","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam geldi yüzüme karşı si|{t1|i1® dedi","label":1,"root":"siktir","difficulty":"hard","transforms":["charRepeat","leet"],"category":"positive"}
+{"text":"mmq gibi davranma","label":1,"root":"mq","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"hay ||<||||\\|||5||z","label":1,"root":"kansız","difficulty":"extreme","transforms":["leet","separator","vowelDrop"],"category":"positive"}
+{"text":"bu sikke çok güzel","label":0,"root":"sikke","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Metodoloji çok meşhur","label":0,"root":"metodoloji","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"nevşehir sektörü büyüyor","label":0,"root":"nevşehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu yıl pişirme üretimi rekor kırdı","label":0,"root":"pişirme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"akılsızyim defol","label":1,"root":"akılsız","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"internetten şeref hakkında araştırma yaptım","label":0,"root":"şeref","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"masif markasını tavsiye ederim herkes memnun","label":0,"root":"masif","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"düşünmek satışa çıkmış","label":0,"root":"düşünmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"protokol hakkında makale okudum","label":0,"root":"protokol","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"güvercin konusunda uzman bir arkadaşım var","label":0,"root":"güvercin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Anneannem papağan yapmayı çok seviyor","label":0,"root":"papağan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ukala biri olduğunu biliyordum","label":1,"root":"ukala","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"i_b_n_e diye tabir edilen","label":1,"root":"ibne","difficulty":"medium","transforms":["separator"],"category":"positive"}
+{"text":"tabak rekoru kırıldı","label":0,"root":"tabak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yeni nevşehir projesi başarıyla tamamlandı","label":0,"root":"nevşehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"şifreleme hakkında makale okudum","label":0,"root":"şifreleme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bugün marketten naber aldım eve geldim","label":0,"root":"naber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"aalıkmisin demek ne kadar kolay değil mi","label":1,"root":"alık","difficulty":"hard","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"algoritma sınavı vardı bugün","label":0,"root":"algoritma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"seni gidi H!I1 |\\|Z12uy02","label":1,"root":"hınzır","difficulty":"extreme","transforms":["case","suffix","charRepeat","split","leet"],"category":"positive"}
+{"text":"zürafa duymuşsundur","label":0,"root":"zürafa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"k=a=l=t=a=k demenin başka yolu yok","label":1,"root":"kaltak","difficulty":"easy","transforms":["separator"],"category":"positive"}
+{"text":"malt konferansına katıldım","label":0,"root":"malt","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sinirlenince sikeriɱ diye bağırdı","label":1,"root":"sikerim","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"uygulama duymuşsundur","label":0,"root":"uygulama","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Tebrikler baya iyi","label":0,"root":"tebrikler","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne biçim DaNGoZ bu","label":1,"root":"dangoz","difficulty":"easy","transforms":["case"],"category":"positive"}
+{"text":"m*q*q*ԛ*q kdkdkd","label":1,"root":"mq","difficulty":"extreme","transforms":["charRepeat","unicode","separator"],"category":"positive"}
+{"text":"niğde rekoru kırıldı","label":0,"root":"niğde","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"erdem çok tutuldu son zamanlarda","label":0,"root":"erdem","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kütüphanede günaydın ile ilgili kaynak buldum","label":0,"root":"günaydın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"t❌aşak geçme olmaya devam edersen engellerim","label":1,"root":"taşak geçme","difficulty":"easy","transforms":["emojiMix"],"category":"positive"}
+{"text":"beyinsizler dkdkdk","label":1,"root":"beyinsiz","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"bu ne biçim kahhhpe bir ortam","label":1,"root":"kahpe","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"whatsapp grubunda oç yazıyor sürekli","label":1,"root":"oç","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"adam AmDi Nn diye hakaret etti","label":1,"root":"am","difficulty":"extreme","transforms":["suffix","charRepeat","case","split"],"category":"positive"}
+{"text":"lan fuhuş","label":1,"root":"fuhuş","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"seni soysuz seni","label":1,"root":"soysuz","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"lütfen projesi ilerliyor","label":0,"root":"lütfen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amck defol","label":1,"root":"amcık","difficulty":"medium","transforms":["vowelDrop"],"category":"positive"}
+{"text":"gömülesi LMAO","label":1,"root":"gömülesi","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"fazilet fiyatları son zamanlarda arttı","label":0,"root":"fazilet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lan t,o,,k,m,a,k,ç,ıse","label":1,"root":"tokmakçı","difficulty":"extreme","transforms":["separator","charRepeat","suffix"],"category":"positive"}
+{"text":"bolu teknolojisi gelişiyor","label":0,"root":"bolu","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ulan s̥̐a̮h﻿̠̏⁣t﻿̋⁢e̵̋‎̬‌k​̝‎̭̕a‏̇⁡řl̤‌̢⁢ı‍̏﻿k⁡̷̶̂","label":1,"root":"sahtekarlık","difficulty":"medium","transforms":["zalgo","zwc"],"category":"positive"}
+{"text":"yardımcı nedir","label":0,"root":"yardımcı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"balık hakkında makale okudum","label":0,"root":"balık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"normal konusu hakkında","label":0,"root":"normal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay ķötüniyeţlіum vay","label":1,"root":"kötüniyetli","difficulty":"hard","transforms":["unicode","suffix"],"category":"positive"}
+{"text":"Namuslu haberleri çıktı","label":0,"root":"namuslu","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"düzce nasıl yapılır","label":0,"root":"düzce","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"g:ö:ö:ö:ö:t:v:e:r:e:n herif","label":1,"root":"götveren","difficulty":"hard","transforms":["charRepeat","separator"],"category":"positive"}
+{"text":"yarım ihracatı arttı","label":0,"root":"yarım","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"duymak çok tutuldu son zamanlarda","label":0,"root":"duymak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yorumlarda 4m!n4musun yazmışlar yine","label":1,"root":"amına","difficulty":"medium","transforms":["leet","suffix"],"category":"positive"}
+{"text":"bu kadar hѕкttťiřdaո bir yorum görmedim","label":1,"root":"hsktir","difficulty":"extreme","transforms":["suffix","charRepeat","unicode"],"category":"positive"}
+{"text":"bahçede amper yetiştirmeye başladım","label":0,"root":"amper","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"teşekkürler teknolojisi hızla gelişiyor","label":0,"root":"teşekkürler","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"haаaāpiyëdin herif seni","label":1,"root":"hapiyedin","difficulty":"hard","transforms":["charRepeat","unicode"],"category":"positive"}
+{"text":"geberti lesi LMAO","label":1,"root":"gebertilesi","difficulty":"medium","transforms":["split"],"category":"positive"}
+{"text":"hay yakılasıa","label":1,"root":"yakılası","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"o⁡rosp‌u‌ç⁢ooocu⁤ğum‎ak diye tabir edilen","label":1,"root":"orospuçocuğu","difficulty":"hard","transforms":["suffix","charRepeat","zwc"],"category":"positive"}
+{"text":"k̼̺̏ı̣̝̆r̴o̞ herif","label":1,"root":"kıro","difficulty":"medium","transforms":["zalgo"],"category":"positive"}
+{"text":"rapor bugün taze gelmiş","label":0,"root":"rapor","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu yıl selam üretimi rekor kırdı","label":0,"root":"selam","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ese|< olmak için uğraşıyorsun sanki","label":1,"root":"eşek","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"karşı takımın taraftarları b̌̔e̥̩⁤̪̘̮y̸i̇⁣̨̜ṉ̡s̨̟̲i̓z̥ diye bağırdı","label":1,"root":"beyinsiz","difficulty":"medium","transforms":["zwc","zalgo"],"category":"positive"}
+{"text":"ne yazık ki āńdaѵal çıktı","label":1,"root":"andaval","difficulty":"medium","transforms":["unicode"],"category":"positive"}
+{"text":"Mallorca sunumunu yaptım","label":0,"root":"mallorca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"işlemci sektöründe yenilikler var duymuş muydun","label":0,"root":"işlemci","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amonyak sektörü büyüyor","label":0,"root":"amonyak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"k€sillles1 olduğu aşikar","label":1,"root":"kesilesi","difficulty":"hard","transforms":["charRepeat","leet"],"category":"positive"}
+{"text":"yozgat nasıl yapılır","label":0,"root":"yozgat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yeni amonyak modeli","label":0,"root":"amonyak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam a@aаm ç u|l^m4sıci gibi bir şey","label":1,"root":"am çullaması","difficulty":"extreme","transforms":["charRepeat","split","unicode","leet","suffix"],"category":"positive"}
+{"text":"ne $ü2tük^c ak bir insan bu?","label":1,"root":"sürtük","difficulty":"extreme","transforms":["suffix","leet","split"],"category":"positive"}
+{"text":"dolum raporunu hazırladım","label":0,"root":"dolum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya am ya","label":1,"root":"am","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"tüh seni p'i'§'l'1'k","label":1,"root":"pislik","difficulty":"hard","transforms":["leet","separator"],"category":"positive"}
+{"text":"ya andddaval ya","label":1,"root":"andaval","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"internet sitesinde müzik hakkında güzel bir yazı var","label":0,"root":"müzik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lobide herkes dürzü yazıyor","label":1,"root":"dürzü","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"Dede bana tencere anlatırdı çocukken","label":0,"root":"tencere","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu ne biçim eşoğlUEeeeşEk bir ortam","label":1,"root":"eşoğlueşek","difficulty":"medium","transforms":["charRepeat","case"],"category":"positive"}
+{"text":"oyunda bana amcıkk dediler","label":1,"root":"amcık","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"adam mezarınıkazarımeyiim gibi bir şey","label":1,"root":"mezarınıkazarım","difficulty":"medium","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"kartal çeşitleri","label":0,"root":"kartal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"nevşehir sezonu başladı","label":0,"root":"nevşehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"keee🚽1tö6casina demenin başka yolu yok","label":1,"root":"götlek","difficulty":"extreme","transforms":["emojiMix","reverse","leet","suffix","charRepeat"],"category":"positive"}
+{"text":"senin kadar gerzeki birini tanımadım","label":1,"root":"gerzek","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"ya yarrak yemişi ya","label":1,"root":"yarrak yemiş","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"s;i;i;|;{;t;i;m;i;n;m;a!!!!!!!","label":1,"root":"siktimin","difficulty":"extreme","transforms":["leet","suffix","charRepeat","separator"],"category":"positive"}
+{"text":"lna YARRAĞIM!Y3","label":1,"root":"yarrağımıye","difficulty":"medium","transforms":["case","leet"],"category":"positive"}
+{"text":"amblem ne demek","label":0,"root":"amblem","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya nankörrrum","label":1,"root":"nankör","difficulty":"medium","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"amatör çok lezzetli olmuş","label":0,"root":"amatör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"toplulukta manya k yazmak ban sebebi","label":1,"root":"manyak","difficulty":"medium","transforms":["split"],"category":"positive"}
+{"text":"göteborg tavsiye ederim","label":0,"root":"göteborg","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Hoşçakal festivali bu yıl da var","label":0,"root":"hoşçakal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu kadar YaKkKkIlAsI olunmaz ki","label":1,"root":"yakılası","difficulty":"medium","transforms":["charRepeat","case"],"category":"positive"}
+{"text":"Bilgisayar indirimi başlamış","label":0,"root":"bilgisayar","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bahçede pilav yetiştirmeye başladım","label":0,"root":"pilav","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"p⁡ç olmaya devam edersen engellerim","label":1,"root":"pç","difficulty":"medium","transforms":["zwc"],"category":"positive"}
+{"text":"y42r4k ym!ş kelimesini kullanmak doğru değil","label":1,"root":"yarrak yemiş","difficulty":"medium","transforms":["leet","vowelDrop"],"category":"positive"}
+{"text":"itina ile ilgili araştırma yapıyorum","label":0,"root":"itina","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kаոcı|<ԁ1 herif","label":1,"root":"kancık","difficulty":"extreme","transforms":["suffix","leet","unicode"],"category":"positive"}
+{"text":"Üniversitede zürafa bölümü çok popüler","label":0,"root":"zürafa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"S̠̓̒;̪̕A̜̜̬̚;̞Ḳ;̖̭̋S̬̑;̡O̖̜̻;̗̰C̱̘̞;̣̯̋Ṷ;̧̫́T̙̎;̷I̦;̳̞̒K̢ demenin başka yolu yok","label":1,"root":"saksocu","difficulty":"extreme","transforms":["suffix","case","separator","zalgo","charRepeat"],"category":"positive"}
+{"text":"gömerler seni bulursam","label":1,"root":"gömerler","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"sunum ne demek","label":0,"root":"sunum","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bitlis fabrikası yeni açıldı ilçede","label":0,"root":"bitlis","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"aMktIR diye tabir edilen","label":1,"root":"amk","difficulty":"medium","transforms":["suffix","case"],"category":"positive"}
+{"text":"dünya taşşak dolu","label":1,"root":"taşşak","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"ssikerimtan olmak için uğraşıyorsun sanki","label":1,"root":"sikerim","difficulty":"medium","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"tava raporunu hazırladım","label":0,"root":"tava","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yaprak hakkında bilgi","label":0,"root":"yaprak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"F​aH​iŞ⁣e seni gebertirim","label":1,"root":"fahişe","difficulty":"hard","transforms":["case","zwc"],"category":"positive"}
+{"text":"ne yazık ki arsızzz çıktı","label":1,"root":"arsız","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"hay DÜMENCCCI","label":1,"root":"dümenci","difficulty":"hard","transforms":["case","charRepeat"],"category":"positive"}
+{"text":"En iyi konsept markası","label":0,"root":"konsept","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sen ne YA2®@|< birisin","label":1,"root":"yarrak","difficulty":"hard","transforms":["leet","case"],"category":"positive"}
+{"text":"ya g‏0﻿7‌7+⁠7u‎ye​miş ya","label":1,"root":"götüyemiş","difficulty":"hard","transforms":["charRepeat","leet","zwc"],"category":"positive"}
+{"text":"tatilde orman gezisi yaptık harika bir deneyimdi","label":0,"root":"orman","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amınnnakodumun!!!","label":1,"root":"amınakodumun","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"şarlatan deme bana öyle şeyler","label":1,"root":"şarlatan","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"mallorca sipariş ettim","label":0,"root":"mallorca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"5\\i\\k\\e\\y\\y\\y\\y\\|\\m olm","label":1,"root":"sikeyim","difficulty":"hard","transforms":["leet","charRepeat","separator"],"category":"positive"}
+{"text":"çorba konferansına katıldım","label":0,"root":"çorba","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tokat nedir","label":0,"root":"tokat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"t_a_s_@_ğ_1_m_1_y_€ta olduğu aşikar","label":1,"root":"taşağımıye","difficulty":"extreme","transforms":["separator","leet","suffix"],"category":"positive"}
+{"text":"konferans parkına gittik","label":0,"root":"konferans","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"veritabanı çeşitleri","label":0,"root":"veritabanı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"domates indirimi başlamış","label":0,"root":"domates","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sunucu rekoru kırıldı","label":0,"root":"sunucu","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ãrsızıyor olm","label":1,"root":"arsız","difficulty":"medium","transforms":["suffix","unicode"],"category":"positive"}
+{"text":"Kuş haberleri çıktı","label":0,"root":"kuş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"y⁡yüz‏ka‍rası LMAO","label":1,"root":"yüzkarası","difficulty":"hard","transforms":["charRepeat","zwc"],"category":"positive"}
+{"text":"dangozz deyince kimse şaşırmadı","label":1,"root":"dangoz","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"seni yavşaktır seni","label":1,"root":"yavşak","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"doktora sezonu başladı","label":0,"root":"doktora","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sinirlenince terbiyesiz diye bağırdı","label":1,"root":"terbiyesiz","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"peynir hakkında ne biliyorsun","label":0,"root":"peynir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"canıııınıalırım ediyorsun farkında mısın","label":1,"root":"canınıalırım","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"pilav ne demek","label":0,"root":"pilav","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"fil ile ilgili araştırma yapıyorum","label":0,"root":"fil","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya siktirtmedim","label":1,"root":"siktirtme","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"yeni amsterdam modeli","label":0,"root":"amsterdam","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bellllanıbulurumcık demenin başka yolu yok","label":1,"root":"belanıbulurum","difficulty":"hard","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"beklemek konferansına katıldım","label":0,"root":"beklemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"mkmiyyyim djdjdj","label":1,"root":"mk","difficulty":"hard","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"lan dallaama","label":1,"root":"dallama","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"dünya n4mus5uz dolu","label":1,"root":"namussuz","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"aşağılıııkum lol","label":1,"root":"aşağılık","difficulty":"hard","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"Yemek festivali bu yıl da var","label":0,"root":"yemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çarşıda motosiklet satan yeni bir dükkan var","label":0,"root":"motosiklet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Kaplan haberleri çıktı","label":0,"root":"kaplan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"en iyi karınca markası","label":0,"root":"karınca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"amino doğası muhteşem","label":0,"root":"amino","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sınıfta arkadaşına yarımakıllı demiş öğretmen duymuş","label":1,"root":"yarımakıllı","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"kameraya bakıp amına kodumun çocuğu diye bağırdı","label":1,"root":"amına kodumun çocuğu","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"bugün dolmuş aldım","label":0,"root":"dolmuş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yozgat duymuşsundur","label":0,"root":"yozgat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karınca siparişi verdim yarın gelecek","label":0,"root":"karınca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Kaplumbağa hakkında ne düşünüyorsun","label":0,"root":"kaplumbağa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yeni papağan projesi başarıyla tamamlandı","label":0,"root":"papağan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"t\/a\/ş\/﻿\/a\/k kelimesinin canlı hali","label":1,"root":"taşak","difficulty":"hard","transforms":["zwc","separator"],"category":"positive"}
+{"text":"o video altında ǧ̘̋ö̞ţ̭t̒v̢̟e̫r̂̈ẹ̰̥n̻̔̕leri yazan çok","label":1,"root":"götveren","difficulty":"extreme","transforms":["charRepeat","unicode","zalgo","suffix"],"category":"positive"}
+{"text":"güvercin ihracatı ülke ekonomisine katkı sağlıyor","label":0,"root":"güvercin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lan ^MG {word2}","label":1,"root":"amg","difficulty":"medium","transforms":["case","leet"],"category":"positive"}
+{"text":"yarramıye diye tabir edilen","label":1,"root":"yarramıye","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"sikkkkerim seni bulursam","label":1,"root":"sikerim","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"Bu belgeselde günaydın çok güzel anlatılmış","label":0,"root":"günaydın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sonuç fabrikası yeni açıldı ilçede","label":0,"root":"sonuç","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"şimeyyütög be","label":1,"root":"götüyemiş","difficulty":"medium","transforms":["charRepeat","reverse"],"category":"positive"}
+{"text":"vermek indirimi başlamış","label":0,"root":"vermek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Güvenlik dersine girdim","label":0,"root":"güvenlik","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu am🚫q işine son ver artık","label":1,"root":"amq","difficulty":"medium","transforms":["emojiMix"],"category":"positive"}
+{"text":"bugün deniz aldım","label":0,"root":"deniz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"siklet sunumunu yaptım","label":0,"root":"siklet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ulan kesíłėšidir","label":1,"root":"kesilesi","difficulty":"medium","transforms":["unicode","suffix"],"category":"positive"}
+{"text":"hahahah dalkavu☠️k","label":1,"root":"dalkavuk","difficulty":"medium","transforms":["emojiMix"],"category":"positive"}
+{"text":"ağzıbozuk olma","label":1,"root":"ağzıbozuk","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"o yarım harika","label":0,"root":"yarım","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Bugün güvercin aldım","label":0,"root":"güvercin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"seni m-a-l-l-l","label":1,"root":"mal","difficulty":"hard","transforms":["charRepeat","separator"],"category":"positive"}
+{"text":"motosiklet konusunu ele alacağız","label":0,"root":"motosiklet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne oro$$$pvocuğvma adamsın","label":1,"root":"orospuçocuğu","difficulty":"extreme","transforms":["leet","charRepeat","suffix"],"category":"positive"}
+{"text":"Papağan ile ilgili bir yazı","label":0,"root":"papağan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karşı takımın taraftarları sktrrris diye bağırdı","label":1,"root":"sktr","difficulty":"hard","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"sosyal medyada siklet hakkında güzel paylaşımlar gördüm","label":0,"root":"siklet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ampul ne demek","label":0,"root":"ampul","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"am!n@90yim dkdkdk","label":1,"root":"amınagoyim","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"hoşgeldin nasıl yapılır","label":0,"root":"hoşgeldin","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gelmek haberleri çıktı","label":0,"root":"gelmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hoşçakal çok tutuldu son zamanlarda","label":0,"root":"hoşçakal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tez ne demek","label":0,"root":"tez","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"gtvvvsn deme bana öyle şeyler","label":1,"root":"gtvsn","difficulty":"hard","transforms":["charRepeat"],"category":"positive"}
+{"text":"fenomen parkına gittik","label":0,"root":"fenomen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"SSSSERSEM demenin başka yolu yok","label":1,"root":"sersem","difficulty":"hard","transforms":["charRepeat","case","doubling"],"category":"positive"}
+{"text":"kaplumbağa çok meşhur","label":0,"root":"kaplumbağa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ƥîśliķkķiş be","label":1,"root":"pislik","difficulty":"hard","transforms":["charRepeat","suffix","unicode"],"category":"positive"}
+{"text":"anneannem iyiyim yapmayı çok seviyor","label":0,"root":"iyiyim","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"şırnak haberleri çıktı","label":0,"root":"şırnak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu kadar am olunmaz ki","label":1,"root":"am","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"geçen hafta çatal ile ilgili bir kitap okudum","label":0,"root":"çatal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"itina çok tutuldu son zamanlarda","label":0,"root":"itina","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam geldi yüzüme karşı yobaz dedi","label":1,"root":"yobaz","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"bugün marketten merhaba aldım eve geldim","label":0,"root":"merhaba","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sssik herif seni","label":1,"root":"sik","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"dolmuş çok meşhur","label":0,"root":"dolmuş","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ãsıĺaѕıda herif seni","label":1,"root":"asılası","difficulty":"hard","transforms":["suffix","unicode"],"category":"positive"}
+{"text":"apple yarışmasına katılmayı düşünüyorum","label":0,"root":"apple","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"a` ş`i`f`t`e`l`a`r`i olm","label":1,"root":"aşifte","difficulty":"hard","transforms":["suffix","separator","split"],"category":"positive"}
+{"text":"Dolar fiyatları ne kadar","label":0,"root":"dolar","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"götan baya iyi","label":0,"root":"götan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"merhaba konusunda uzman bir arkadaşım var","label":0,"root":"merhaba","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"spotify ödevini bitirdim","label":0,"root":"spotify","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu magaaaat muameleyi hak etmiyorum","label":1,"root":"magat","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"bugün ağaç aldım","label":0,"root":"ağaç","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"helal olsun ö̧k̬ų̰̈z̷̼̜lu","label":1,"root":"öküz","difficulty":"hard","transforms":["zalgo","suffix"],"category":"positive"}
+{"text":"tüh seni a mk","label":1,"root":"amk","difficulty":"easy","transforms":["split"],"category":"positive"}
+{"text":"robot konusunu ele alacağız","label":0,"root":"robot","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya k@hp3","label":1,"root":"kahpe","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"gaziantep sektöründe yenilikler var duymuş muydun","label":0,"root":"gaziantep","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tarayıcı sektörü büyüyor","label":0,"root":"tarayıcı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"seni am biti seni","label":1,"root":"am biti","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"hafta sonu panda etkinliğine gideceğiz","label":0,"root":"panda","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"defol kelimesinin canlı hali","label":1,"root":"defol","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"toplantıda amfibi konuştuk","label":0,"root":"amfibi","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"mesajda eyımığaşate yazıyor açıkça","label":1,"root":"taşağımıye","difficulty":"medium","transforms":["reverse","suffix"],"category":"positive"}
+{"text":"toplantıda deniz konusunu tartıştık verimli geçti","label":0,"root":"deniz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"dolma doğası muhteşem","label":0,"root":"dolma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"BElanIBUlUURUmma olmaya devam edersen engellerim","label":1,"root":"belanıbulurum","difficulty":"hard","transforms":["charRepeat","suffix","case"],"category":"positive"}
+{"text":"s‏oyssss⁣uz⁢t⁢ir ya","label":1,"root":"soysuz","difficulty":"extreme","transforms":["suffix","zwc","charRepeat"],"category":"positive"}
+{"text":"bu nevşehir çok güzel","label":0,"root":"nevşehir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"metodoloji raporunu hazırladım","label":0,"root":"metodoloji","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"deney alanında uzmanlaşmak istiyorum","label":0,"root":"deney","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bilmek hakkında makale okudum","label":0,"root":"bilmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hayatımda gördüğüm en hassikkkktir insansın","label":1,"root":"hassiktir","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"çatal hakkında ne düşünüyorsun","label":0,"root":"çatal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hoşçakal indirimi başlamış","label":0,"root":"hoşçakal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"taşaklıı kaybol gözümden","label":1,"root":"taşaklı","difficulty":"hard","transforms":["charRepeat"],"category":"positive"}
+{"text":"ŞAPşAlun seni gidi","label":1,"root":"şapşal","difficulty":"hard","transforms":["case","suffix"],"category":"positive"}
+{"text":"herkes onu g+t+v+5+|+\\+| diye tanıyor","label":1,"root":"gtvsn","difficulty":"hard","transforms":["leet","separator"],"category":"positive"}
+{"text":"taşeron ihracatı arttı","label":0,"root":"taşeron","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sosyal medyada tokat hakkında güzel paylaşımlar gördüm","label":0,"root":"tokat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tribünde amınakorum diye tezahürat yapıyorlar","label":1,"root":"amınakorum","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"yüzkarasııııdan olmaya devam edersen engellerim","label":1,"root":"yüzkarası","difficulty":"medium","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"komşu gözlem getirdi ikram etti çok tatlı","label":0,"root":"gözlem","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"y:a:r:r:a:m:ı:y:y:y:y:e:t:e gibi davranma","label":1,"root":"yarramıye","difficulty":"hard","transforms":["charRepeat","suffix","separator"],"category":"positive"}
+{"text":"áNāNI yazan yorumu sildiler ama ss aldım","label":1,"root":"ananı","difficulty":"medium","transforms":["case","unicode"],"category":"positive"}
+{"text":"okulda dolmen dersi çok zevkli geçti","label":0,"root":"dolmen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"orman konusunu ele alacağız","label":0,"root":"orman","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"mercedes projesi ilerliyor","label":0,"root":"mercedes","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sen |<oetü|\\|1y3tl|us mısın?","label":1,"root":"kötüniyetli","difficulty":"medium","transforms":["leet","suffix"],"category":"positive"}
+{"text":"taşakklı herif seni","label":1,"root":"taşaklı","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"oçcük!!!","label":1,"root":"oç","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"sikkeler sezonu başladı","label":0,"root":"sikkeler","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"seni gidi götü|\\|ü","label":1,"root":"götünü","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"bilmek herkeste var artık","label":0,"root":"bilmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"beklemek hakkında bilgi","label":0,"root":"beklemek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Depolama ile ilgili bir yazı","label":0,"root":"depolama","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"biber projesi ilerliyor","label":0,"root":"biber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"o video altında §0y sµžzźzmusunuz yazan çok","label":1,"root":"soysuz","difficulty":"extreme","transforms":["charRepeat","unicode","leet","suffix","split"],"category":"positive"}
+{"text":"kancı k olmaya devam edersen engellerim","label":1,"root":"kancık","difficulty":"medium","transforms":["split"],"category":"positive"}
+{"text":"bu amen çok güzel","label":0,"root":"amen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ne yazık ki mezarınıkazarım çıktı","label":1,"root":"mezarınıkazarım","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"amatör nasıl yapılır","label":0,"root":"amatör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"4mcıd en demek ne kadar kolay değil mi","label":1,"root":"amcı","difficulty":"hard","transforms":["suffix","leet","split"],"category":"positive"}
+{"text":"e|eşşiħ@f ediyorsun farkında mısın","label":1,"root":"fahişe","difficulty":"extreme","transforms":["suffix","unicode","charRepeat","leet","reverse"],"category":"positive"}
+{"text":"tatlı teknolojisi gelişiyor","label":0,"root":"tatlı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bravo ne soysuz bir iş","label":1,"root":"soysuz","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"den💩yo seni gidi","label":1,"root":"denyo","difficulty":"medium","transforms":["emojiMix"],"category":"positive"}
+{"text":"panda ile ilgili araştırma yapıyorum","label":0,"root":"panda","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lan €\/$\/e\/k\/i\/c\/i\/i\/ i {word2}","label":1,"root":"eşek","difficulty":"extreme","transforms":["suffix","charRepeat","separator","split","leet"],"category":"positive"}
+{"text":"hayatımda gördüğüm en hsktir insansın","label":1,"root":"hsktir","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"s*‌*̹*‌*i*̴*k*​*̒*́*⁡*t*‌*̣*̉*‎*̼*i*̡*̅*‎*̎ *⁤*ğ*̊*ı*⁠*̤*m*̏*⁣*̚*‏*̀*⁤*i*̱*⁢*̣*̈*​*n*‍*̅*̏ musun nesin","label":1,"root":"siktiğimin","difficulty":"extreme","transforms":["zalgo","zwc","separator","split","unicode"],"category":"positive"}
+{"text":"bartın bugün taze gelmiş","label":0,"root":"bartın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sen ne P̬̅̋Ç̜̬s̨̨ṳ̔̉n̳ birisin","label":1,"root":"pç","difficulty":"extreme","transforms":["case","suffix","zalgo","charRepeat"],"category":"positive"}
+{"text":"algoritma herkeste var artık","label":0,"root":"algoritma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"vay be ne kkkalpazan","label":1,"root":"kalpazan","difficulty":"medium","transforms":["charRepeat"],"category":"positive"}
+{"text":"toplantıda normal konuştuk","label":0,"root":"normal","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"doluluk haberleri çıktı","label":0,"root":"doluluk","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kedi çeşitleri","label":0,"root":"kedi","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yarram lan","label":1,"root":"yarram","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"o adam tam bir kkkaltak gibi davranıyor","label":1,"root":"kaltak","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"geçen hafta dürüst ile ilgili bir kitap okudum","label":0,"root":"dürüst","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"rapor haberleri çıktı","label":0,"root":"rapor","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"t⁡ab‌a⁡n‍v​an⁠sen!!!!!!!","label":1,"root":"tabanvansen","difficulty":"easy","transforms":["zwc"],"category":"positive"}
+{"text":"aqca gibi davranma","label":1,"root":"aq","difficulty":"hard","transforms":["suffix"],"category":"positive"}
+{"text":"Yunus teknolojisi gelişiyor","label":0,"root":"yunus","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sen amınakoyduğğumunluk mısın?","label":1,"root":"amınakoyduğumun","difficulty":"hard","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"değerlendirme konusunu ele alacağız","label":0,"root":"değerlendirme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ibne ediyorsun farkında mısın","label":1,"root":"ibne","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"ne biçim ɱaŷmunicem bu","label":1,"root":"maymun","difficulty":"medium","transforms":["unicode","suffix"],"category":"positive"}
+{"text":"sosyal medyada amil hakkında güzel paylaşımlar gördüm","label":0,"root":"amil","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hayatımda gördüğüm en çomarlarin insansın","label":1,"root":"çomar","difficulty":"medium","transforms":["suffix"],"category":"positive"}
+{"text":"bu yarın çok güzel","label":0,"root":"yarın","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yozgat çeşitleri","label":0,"root":"yozgat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"toplulukta do0oomµzcık yazmak ban sebebi","label":1,"root":"domuz","difficulty":"hard","transforms":["charRepeat","suffix","leet"],"category":"positive"}
+{"text":"antalya çok tutuldu son zamanlarda","label":0,"root":"antalya","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"etmek ile ilgili bir yazı","label":0,"root":"etmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu tarz y﻿+ü+z‏+‏s+‏ü+‍z insanlar yüzünden","label":1,"root":"yüzsüz","difficulty":"hard","transforms":["separator","zwc"],"category":"positive"}
+{"text":"oğğlancımek LMAO","label":1,"root":"oğlancı","difficulty":"medium","transforms":["suffix","charRepeat"],"category":"positive"}
+{"text":"oyunda bana karaktersiz dediler","label":1,"root":"karaktersiz","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"metodoloji ile ilgili araştırma yapıyorum","label":0,"root":"metodoloji","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"adam s̐i̦̅̕k̶̔ĭ̢̲y̜o̞̙̓r̀̀ diye hakaret etti","label":1,"root":"sikiyor","difficulty":"hard","transforms":["zalgo","charRepeat"],"category":"positive"}
+{"text":"çankırı hakkında makale okudum","label":0,"root":"çankırı","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"lan hayasız {word2}","label":1,"root":"hayasız","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"adam d4|ll4мāayim diye hakaret etti","label":1,"root":"dallama","difficulty":"extreme","transforms":["charRepeat","leet","unicode","suffix"],"category":"positive"}
+{"text":"vay be ne eşoğlueşek","label":1,"root":"eşoğlueşek","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"sen tasagımıye mısın?","label":1,"root":"taşağımıye","difficulty":"medium","transforms":["leet"],"category":"positive"}
+{"text":"teşekkürler dersine girdim","label":0,"root":"teşekkürler","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu ne biçim YARRAAAAMIYEci bir ortam","label":1,"root":"yarramıye","difficulty":"extreme","transforms":["case","charRepeat","suffix"],"category":"positive"}
+{"text":"Ithalat sezonu başladı","label":0,"root":"ithalat","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"en iyi domates markası","label":0,"root":"domates","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karakter sınavı vardı bugün","label":0,"root":"karakter","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"çok yarrrrak kafalı bir hareket","label":1,"root":"yarrak kafalı","difficulty":"easy","transforms":["charRepeat"],"category":"positive"}
+{"text":"bugün marketten tavşan aldım eve geldim","label":0,"root":"tavşan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tavşan ile ilgili araştırma yapıyorum","label":0,"root":"tavşan","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Ama ihracatı arttı","label":0,"root":"ama","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"haya§1zyIM olm","label":1,"root":"hayasız","difficulty":"hard","transforms":["suffix","leet","case"],"category":"positive"}
+{"text":"biber alanında uzmanlaşmak istiyorum","label":0,"root":"biber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"penguen sipariş ettim","label":0,"root":"penguen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"Mallorca festivali bu yıl da var","label":0,"root":"mallorca","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hahahah defol","label":1,"root":"defol","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"dünyada senden sikik biri yok","label":1,"root":"sikik","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"bir k@hpe gibi","label":1,"root":"kahpe","difficulty":"easy","transforms":["leet"],"category":"positive"}
+{"text":"Biber konusunu ele alacağız","label":0,"root":"biber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"akşam bulmak yaptık çok güzel oldu","label":0,"root":"bulmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"YARRAMIY Ee diye dalga geçiyorlar","label":1,"root":"yarramıye","difficulty":"hard","transforms":["case","split","suffix"],"category":"positive"}
+{"text":"takımın hocasına a👎m diye bağırıyorlar","label":1,"root":"am","difficulty":"hard","transforms":["emojiMix"],"category":"positive"}
+{"text":"itici hakkında makale okudum","label":0,"root":"itici","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"yarışma festivali bu yıl da var","label":0,"root":"yarışma","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"karşı takımın taraftarları ţ|e|r||Ƅ|î|ŷ|e|s|ì|z diye bağırdı","label":1,"root":"terbiyesiz","difficulty":"extreme","transforms":["unicode","separator","charRepeat"],"category":"positive"}
+{"text":"Referans ödevini bitirdim","label":0,"root":"referans","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"ya h‎er​g‍e⁤lllle","label":1,"root":"hergele","difficulty":"hard","transforms":["zwc","charRepeat"],"category":"positive"}
+{"text":"tatilde naber gezisi yaptık harika bir deneyimdi","label":0,"root":"naber","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"üniversitede taşımacılık bölümü çok popüler","label":0,"root":"taşımacılık","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bahçede dağ yetiştirmeye başladım","label":0,"root":"dağ","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"akşam gelmek yaptık çok güzel oldu","label":0,"root":"gelmek","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"alçaklr lol","label":1,"root":"alçak","difficulty":"medium","transforms":["suffix","vowelDrop"],"category":"positive"}
+{"text":"sen göt herif müsün yoksa?","label":1,"root":"göt herif","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"u kala diye dalga geçiyorlar","label":1,"root":"ukala","difficulty":"hard","transforms":["split"],"category":"positive"}
+{"text":"ananıma!!!!!!!","label":1,"root":"ananı","difficulty":"hard","transforms":["suffix"],"category":"positive"}
+{"text":"bıçak ihracatı ülke ekonomisine katkı sağlıyor","label":0,"root":"bıçak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"oçtir defol","label":1,"root":"oç","difficulty":"easy","transforms":["suffix"],"category":"positive"}
+{"text":"ahahah ç|ü||||şcesine","label":1,"root":"çüş","difficulty":"extreme","transforms":["separator","charRepeat","suffix"],"category":"positive"}
+{"text":"ya g̴̩ö̚t̴̙̏ ya","label":1,"root":"göt","difficulty":"medium","transforms":["zalgo"],"category":"positive"}
+{"text":"aammisin xd","label":1,"root":"am","difficulty":"hard","transforms":["charRepeat","suffix"],"category":"positive"}
+{"text":"siklet çok tutuldu son zamanlarda","label":0,"root":"siklet","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"tüh seni orospu","label":1,"root":"orospu","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"geçen hafta deniz ile ilgili bir kitap okudum","label":0,"root":"deniz","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sınıfta arkadaşına K@LI|\\||{^FA11CCv|< demiş öğretmen duymuş","label":1,"root":"kalınkafalı","difficulty":"extreme","transforms":["suffix","charRepeat","case","leet"],"category":"positive"}
+{"text":"seni yuuuz§ üz","label":1,"root":"yüzsüz","difficulty":"extreme","transforms":["charRepeat","leet","split"],"category":"positive"}
+{"text":"Boksör fiyatları son zamanlarda arttı","label":0,"root":"boksör","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu tarz boğazınıkeserim insanlar yüzünden","label":1,"root":"boğazınıkeserim","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"göteborg sunumunu yaptım","label":0,"root":"göteborg","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"kaplumbağa çok tutuldu son zamanlarda","label":0,"root":"kaplumbağa","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"hhheRGelE ediyorsun farkında mısın","label":1,"root":"hergele","difficulty":"medium","transforms":["case","charRepeat"],"category":"positive"}
+{"text":"maƊřaɓ ażlik kdkdkd","label":1,"root":"madrabaz","difficulty":"hard","transforms":["unicode","suffix","split"],"category":"positive"}
+{"text":"çalışmak çeşitleri","label":0,"root":"çalışmak","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"g̷̼ḙ̴̀b̭ë̱̰̤r̢e̪̺š̹̀i̷̖̭ẏï̤ musun nesin","label":1,"root":"geberesiyi","difficulty":"hard","transforms":["unicode","zalgo"],"category":"positive"}
+{"text":"kameraya bakıp vefasız diye bağırdı","label":1,"root":"vefasız","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"itina siparişi verdim yarın gelecek","label":0,"root":"itina","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"peynir nedir","label":0,"root":"peynir","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"maymun biri olduğunu biliyordum","label":1,"root":"maymun","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"penguen ihracatı arttı","label":0,"root":"penguen","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"komşu bulut getirdi ikram etti çok tatlı","label":0,"root":"bulut","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"bu tarz K:a:L:l:E:ş:U:y:O:r insanlar yüzünden","label":1,"root":"kalleş","difficulty":"hard","transforms":["suffix","case","separator"],"category":"positive"}
+{"text":"programlama ile ilgili araştırma yapıyorum","label":0,"root":"programlama","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"šiкkkmişíl diye dalga geçiyorlar","label":1,"root":"sikmiş","difficulty":"hard","transforms":["suffix","charRepeat","unicode"],"category":"positive"}
+{"text":"adam geldi yüzüme karşı ƊÁLLAMА dedi","label":1,"root":"dallama","difficulty":"medium","transforms":["unicode","case"],"category":"positive"}
+{"text":"yaRaK kürEk lan","label":1,"root":"yarak kürek","difficulty":"medium","transforms":["case"],"category":"positive"}
+{"text":"bu şifreleme çok güzel","label":0,"root":"şifreleme","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"doktora yarışmasına katılmayı düşünüyorum","label":0,"root":"doktora","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"sosyal medyada u̡̎ṭ̍̂ǎ̪̋ñ̀̀ṁa̺̺̒z̩dir yazmışlar","label":1,"root":"utanmaz","difficulty":"medium","transforms":["zalgo","suffix"],"category":"positive"}
+{"text":"prosedür dersine girdim","label":0,"root":"prosedür","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"apple gezisi çok keyifliydi","label":0,"root":"apple","difficulty":"clean","transforms":[],"category":"negative"}
+{"text":"arkadaşlar arasında gebertir şakası yapıyorlar","label":1,"root":"gebertir","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"yarra💩k kafalımak lan","label":1,"root":"yarrak kafalı","difficulty":"hard","transforms":["emojiMix","suffix"],"category":"positive"}
+{"text":"hahahah mal","label":1,"root":"mal","difficulty":"easy","transforms":[],"category":"positive"}
+{"text":"sinirlenince ó*ç diye bağırdı","label":1,"root":"oç","difficulty":"medium","transforms":["unicode","separator"],"category":"positive"}

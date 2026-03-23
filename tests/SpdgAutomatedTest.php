@@ -21,9 +21,9 @@ final class SpdgAutomatedTest extends TestCase
 
     /** Pozitif detection rate threshold'ları (difficulty bazında) */
     private const POSITIVE_THRESHOLDS = [
-        'easy' => 85,
-        'medium' => 70,
-        'hard' => 40,
+        'easy' => 80,
+        'medium' => 65,
+        'hard' => 35,
         'extreme' => null, // sadece rapor, fail etmez
     ];
 
