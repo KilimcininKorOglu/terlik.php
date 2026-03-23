@@ -1,6 +1,6 @@
 # Terlik.php
 
-Production-ready, multi-language profanity detection engine for PHP. A faithful port of [terlik.js](https://github.com/badursun/terlik.js).
+Multi-language profanity detection engine for PHP. A faithful port of [terlik.js](https://github.com/badursun/terlik.js).
 
 ## Features
 
