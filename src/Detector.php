@@ -86,8 +86,21 @@ final class Detector
         $this->ensureCompiled();
     }
 
+    /**
+     * Clears the static pattern cache. Useful for long-lived processes
+     * (Swoole, ReactPHP, CLI daemons) to free memory or force recompilation.
+     */
+    public static function clearPatternCache(): void
+    {
+        self::$patternCache = [];
+    }
+
     public function recompile(): void
     {
+        // Evict stale cache entry before recompiling
+        if ($this->cacheKey !== null) {
+            unset(self::$patternCache[$this->cacheKey]);
+        }
         $this->cacheKey = null;
         $this->patterns = PatternCompiler::compilePatterns(
             $this->dictionary->getEntries(),
