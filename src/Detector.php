@@ -376,8 +376,11 @@ final class Detector
                     }
                 } else {
                     if (!isset($existingIndices[$matchIndex])) {
+                        // Extract the word from original text (not lowered text)
+                        // to preserve original casing for Cleaner
+                        $originalWord = mb_substr($originalText, $matchIndex, mb_strlen($matchedText));
                         $results[] = new MatchResult(
-                            word: $matchedText,
+                            word: $originalWord,
                             root: $pattern->root,
                             index: $matchIndex,
                             severity: $pattern->severity,
