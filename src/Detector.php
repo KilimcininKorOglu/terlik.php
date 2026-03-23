@@ -412,14 +412,21 @@ final class Detector
         $segments = preg_split('/(\s+)/', $originalText, -1, PREG_SPLIT_DELIM_CAPTURE) ?: [];
         $normOffset = 0;
         $origOffset = 0;
+        $isFirstSegment = true;
 
         foreach ($segments as $segment) {
             if (preg_match('/^\s+$/', $segment)) {
-                $normOffset += 1; // normalized collapses whitespace to single space
+                // Leading/trailing whitespace is trimmed by the normalizer,
+                // so don't increment normOffset for leading whitespace.
+                // Internal whitespace collapses to a single space.
+                if (!$isFirstSegment) {
+                    $normOffset += 1;
+                }
                 $origOffset += mb_strlen($segment);
 
                 continue;
             }
+            $isFirstSegment = false;
 
             $normWord = ($this->normalizeFn)($segment);
             $normEnd = $normOffset + mb_strlen($normWord);
