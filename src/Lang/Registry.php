@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Terlik\Lang;
 
+use Terlik\Detector;
 use Terlik\Dictionary\Schema;
 
 final class Registry
@@ -91,10 +92,12 @@ final class Registry
     }
 
     /**
-     * Resets the internal cache (useful for testing).
+     * Resets the internal cache (useful for testing and long-lived processes).
+     * Also clears the Detector's compiled pattern cache.
      */
     public static function resetCache(): void
     {
         self::$registry = null;
+        Detector::clearPatternCache();
     }
 }
