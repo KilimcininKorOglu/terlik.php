@@ -196,14 +196,13 @@ final class Detector
      */
     private function detectStrict(string $text, array $whitelist, array &$results): void
     {
-        $normalized = ($this->normalizeFn)($text);
-        $words = preg_split('/\s+/', $normalized, -1, PREG_SPLIT_NO_EMPTY) ?: [];
         $originalWords = preg_split('/\s+/', $text, -1, PREG_SPLIT_NO_EMPTY) ?: [];
 
         $charIndex = 0;
         for ($wi = 0, $wCount = count($originalWords); $wi < $wCount; $wi++) {
             $origWord = $originalWords[$wi];
-            $normWord = $words[$wi] ?? '';
+            // Normalize each word individually to maintain 1:1 alignment
+            $normWord = ($this->normalizeFn)($origWord);
 
             if ($normWord === '') {
                 $charIndex += mb_strlen($origWord) + 1;
