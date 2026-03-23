@@ -26,11 +26,25 @@ final class PatternCompiler
      *
      * @param array<string, string> $charClasses
      */
+    /** @var array<string, bool> Cache for validated charClass patterns. */
+    private static array $validatedCharClasses = [];
+
     private static function charToPattern(string $ch, array $charClasses): string
     {
         $lower = mb_strtolower($ch);
         if (isset($charClasses[$lower])) {
-            return $charClasses[$lower] . '+';
+            $cls = $charClasses[$lower];
+
+            // Validate charClass is a well-formed regex fragment (cached)
+            if (!isset(self::$validatedCharClasses[$cls])) {
+                self::$validatedCharClasses[$cls] = (@preg_match('/' . $cls . '/u', '') !== false);
+            }
+
+            if (self::$validatedCharClasses[$cls]) {
+                return $cls . '+';
+            }
+
+            // Malformed charClass — fall through to literal pattern
         }
 
         return preg_quote($ch, '/') . '+';
