@@ -157,6 +157,12 @@ final class Schema
             array_merge($base['suffixes'], $ext['suffixes'])
         ));
 
+        if (count($mergedSuffixes) > self::MAX_SUFFIXES) {
+            throw new \InvalidArgumentException(
+                sprintf('Merged dictionary suffixes (%d) exceed maximum of %d', count($mergedSuffixes), self::MAX_SUFFIXES)
+            );
+        }
+
         $mergedWhitelist = array_values(array_unique(
             array_merge($base['whitelist'], $ext['whitelist'])
         ));
