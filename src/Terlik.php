@@ -42,23 +42,27 @@ class Terlik extends TerlikCore
         $map = [];
 
         foreach ($langs as $lang) {
-            $instance = new self(new TerlikOptions(
-                language: $lang,
-                mode: $baseOptions?->mode ?? Mode::Balanced,
-                maskStyle: $baseOptions?->maskStyle ?? MaskStyle::Stars,
-                customList: $baseOptions?->customList,
-                whitelist: $baseOptions?->whitelist,
-                enableFuzzy: $baseOptions?->enableFuzzy ?? false,
-                fuzzyThreshold: $baseOptions?->fuzzyThreshold ?? 0.8,
-                fuzzyAlgorithm: $baseOptions?->fuzzyAlgorithm ?? FuzzyAlgorithm::Levenshtein,
-                maxLength: $baseOptions?->maxLength ?? Utils::MAX_INPUT_LENGTH,
-                replaceMask: $baseOptions?->replaceMask ?? '[***]',
-                disableLeetDecode: $baseOptions?->disableLeetDecode ?? false,
-                disableCompound: $baseOptions?->disableCompound ?? false,
-                minSeverity: $baseOptions?->minSeverity,
-                excludeCategories: $baseOptions?->excludeCategories,
-                extendDictionary: $baseOptions?->extendDictionary,
-            ));
+            // When baseOptions is null, rely on TerlikOptions constructor defaults
+            $opts = $baseOptions !== null
+                ? new TerlikOptions(
+                    language: $lang,
+                    mode: $baseOptions->mode,
+                    maskStyle: $baseOptions->maskStyle,
+                    customList: $baseOptions->customList,
+                    whitelist: $baseOptions->whitelist,
+                    enableFuzzy: $baseOptions->enableFuzzy,
+                    fuzzyThreshold: $baseOptions->fuzzyThreshold,
+                    fuzzyAlgorithm: $baseOptions->fuzzyAlgorithm,
+                    maxLength: $baseOptions->maxLength,
+                    replaceMask: $baseOptions->replaceMask,
+                    disableLeetDecode: $baseOptions->disableLeetDecode,
+                    disableCompound: $baseOptions->disableCompound,
+                    minSeverity: $baseOptions->minSeverity,
+                    excludeCategories: $baseOptions->excludeCategories,
+                    extendDictionary: $baseOptions->extendDictionary,
+                )
+                : new TerlikOptions(language: $lang);
+            $instance = new self($opts);
             // JIT warmup
             $instance->containsProfanity('warmup');
             $map[$lang] = $instance;
