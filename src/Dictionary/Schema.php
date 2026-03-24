@@ -4,12 +4,36 @@ declare(strict_types=1);
 
 namespace Terlik\Dictionary;
 
+use Terlik\Category;
+use Terlik\Severity;
+
 final class Schema
 {
-    private const VALID_SEVERITIES = ['high', 'medium', 'low'];
-    private const VALID_CATEGORIES = ['sexual', 'insult', 'slur', 'general'];
+    /** @var string[]|null Lazily derived from Severity enum. */
+    private static ?array $validSeverities = null;
+
+    /** @var string[]|null Lazily derived from Category enum. */
+    private static ?array $validCategories = null;
     private const MAX_SUFFIXES = 150;
     private const SUFFIX_PATTERN = '/^\p{Ll}{1,10}$/u';
+
+    /** @return string[] */
+    private static function getValidSeverities(): array
+    {
+        return self::$validSeverities ??= array_map(
+            static fn(Severity $s) => $s->value,
+            Severity::cases(),
+        );
+    }
+
+    /** @return string[] */
+    private static function getValidCategories(): array
+    {
+        return self::$validCategories ??= array_map(
+            static fn(Category $c) => $c->value,
+            Category::cases(),
+        );
+    }
 
     /**
      * Validates raw dictionary data against the expected schema.
@@ -75,25 +99,25 @@ final class Schema
             }
 
             if (!isset($entry['severity']) || !is_string($entry['severity'])
-                || !in_array($entry['severity'], self::VALID_SEVERITIES, true)) {
+                || !in_array($entry['severity'], self::getValidSeverities(), true)) {
                 throw new \InvalidArgumentException(
                     sprintf(
                         '%s (root="%s"): severity must be one of %s',
                         $label,
                         $entry['root'],
-                        implode(', ', self::VALID_SEVERITIES),
+                        implode(', ', self::getValidSeverities()),
                     )
                 );
             }
 
             if (!isset($entry['category']) || !is_string($entry['category'])
-                || !in_array($entry['category'], self::VALID_CATEGORIES, true)) {
+                || !in_array($entry['category'], self::getValidCategories(), true)) {
                 throw new \InvalidArgumentException(
                     sprintf(
                         '%s (root="%s"): category must be one of %s',
                         $label,
                         $entry['root'],
-                        implode(', ', self::VALID_CATEGORIES),
+                        implode(', ', self::getValidCategories()),
                     )
                 );
             }
