@@ -452,7 +452,11 @@ function selectTransforms(string $difficulty, Closure $rand): array
     }
 
     $shuffled = $transforms;
-    usort($shuffled, static fn() => $rand() < 0.5 ? -1 : 1);
+    // Fisher-Yates shuffle with deterministic PRNG (replaces non-deterministic usort)
+    for ($i = count($shuffled) - 1; $i > 0; $i--) {
+        $j = (int) floor($rand() * ($i + 1));
+        [$shuffled[$i], $shuffled[$j]] = [$shuffled[$j], $shuffled[$i]];
+    }
 
     $selected = [];
     $familyCounts = [];
