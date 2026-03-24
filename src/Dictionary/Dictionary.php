@@ -22,6 +22,9 @@ final class Dictionary
     /** @var string[] */
     private array $allWords = [];
 
+    /** @var array<string, WordEntry> Reverse index: lowercased variant → entry. */
+    private array $variantToEntry = [];
+
     /** @var string[] */
     private array $suffixes;
 
@@ -75,7 +78,9 @@ final class Dictionary
         $this->entries[$normalizedRoot] = $entry;
         $this->allWords[] = $normalizedRoot;
         foreach ($entry->variants as $v) {
-            $this->allWords[] = mb_strtolower($v);
+            $lower = mb_strtolower($v);
+            $this->allWords[] = $lower;
+            $this->variantToEntry[$lower] = $entry;
         }
     }
 
@@ -155,6 +160,9 @@ final class Dictionary
                 unset($this->entries[$key]);
 
                 $variantsLower = array_map('mb_strtolower', $entry->variants);
+                foreach ($variantsLower as $vl) {
+                    unset($this->variantToEntry[$vl]);
+                }
                 $this->allWords = array_values(array_filter(
                     $this->allWords,
                     static fn(string $w) => $w !== $key && !in_array($w, $variantsLower, true),
@@ -170,18 +178,6 @@ final class Dictionary
     {
         $lower = mb_strtolower($word);
 
-        if (isset($this->entries[$lower])) {
-            return $this->entries[$lower];
-        }
-
-        foreach ($this->entries as $entry) {
-            foreach ($entry->variants as $v) {
-                if (mb_strtolower($v) === $lower) {
-                    return $entry;
-                }
-            }
-        }
-
-        return null;
+        return $this->entries[$lower] ?? $this->variantToEntry[$lower] ?? null;
     }
 }
