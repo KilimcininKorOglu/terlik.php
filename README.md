@@ -10,7 +10,7 @@ Multi-language profanity detection engine for PHP. A faithful port of [terlik.js
 - **Evasion resistance** -- leet speak (`$1kt1r`), separators (`s.i.k.t.i.r`), repetition (`fuuuck`), Cyrillic homoglyphs, fullwidth characters, accented bypasses
 - **Turkish suffix engine** -- 83 grammatical suffixes with up to 2-chain support
 - **Fuzzy matching** -- Levenshtein distance and Dice coefficient algorithms
-- **ReDoS-safe** -- bounded separators `{0,3}`, 250ms per-pattern timeout, max pattern length guard
+- **ReDoS-safe** -- bounded separators `{0,3}`, 250ms global timeout budget, max pattern length guard
 - **Runtime dictionary** -- `addWords()` / `removeWords()` with automatic recompilation
 - **Dictionary extension** -- merge custom dictionaries via `extendDictionary` option
 - **Mask styles** -- stars (`******`), partial (`s****r`), replace (`[CENSORED]`)
@@ -291,7 +291,7 @@ The library follows a multi-pass detection pipeline:
 ## Testing
 
 ```bash
-# Full test suite: 21 files, 1271 tests, 3690 assertions
+# Full test suite: 21 files, 1271 tests, 3718 assertions
 php vendor/bin/phpunit
 
 # With test names
@@ -312,6 +312,24 @@ php vendor/bin/phpunit --filter testFalsePositiveSikke
 | English  | 51    | 117+     | --       | 82+       |
 | Spanish  | 28    | 46+      | --       | 12+       |
 | German   | 28    | 32+      | --       | 3+        |
+
+## License
+
+MIT License - See [LICENSE](LICENSE) for details.
+
+## SPDG (Synthetic Profanity Dataset Generator)
+
+Generate synthetic test datasets for profanity detection validation:
+
+```bash
+# Generate 500 positive + 500 negative samples for Turkish
+php tools/Synthetic-Profanity-Dataset-Generator/generate_dataset.php --tr --pos 500 --neg 500 --seed 42
+
+# Supported languages: --tr, --en, --es, --de
+# Output: tools/Synthetic-Profanity-Dataset-Generator/output/export-{lang}.jsonl
+```
+
+The generator supports 13 transform functions (suffix, charRepeat, leet, unicode, separator, split, case, zalgo, zwc, emojiMix, vowelDrop, reverse, doubling) with 4 difficulty levels (easy, medium, hard, extreme).
 
 ## License
 
