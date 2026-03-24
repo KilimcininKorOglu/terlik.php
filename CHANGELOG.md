@@ -5,6 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2026-03-24
+
+### Changed
+- Delete empty deprecated Normalizer.php stub
+- Derive Schema validation constants from Severity and Category enums
+- Change WordEntry category field from string to Category enum
+- Remove duplicated Turkish config from TextNormalizer and use Registry
+- Simplify warmup() to reuse TerlikOptions defaults
+- Extract shared locale-aware lowercase to eliminate duplication
+- Update README with correct assertion count and SPDG documentation
+
+### Fixed
+- Clear PatternCompiler charClass validation cache on reset
+- Replace usort shuffle with Fisher-Yates in SPDG selectTransforms
+
+### Performance
+- Build variant-to-entry reverse index for O(1) lookup in Dictionary
+- Pass existingIndices by reference across detection passes
+
 ## [1.1.0] - 2026-03-24
 
 ### Added
