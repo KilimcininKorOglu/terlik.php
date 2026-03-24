@@ -261,14 +261,20 @@ final class Detector
             ? $this->safeNormalizeFn
             : $this->normalizeFn;
 
+        // Shared index set across all passes to avoid rebuild
+        $existingIndices = [];
+        foreach ($results as $r) {
+            $existingIndices[$r->index] = true;
+        }
+
         // First pass: locale-lowered text
         $lowerText = $this->localeLower($text);
-        $this->runPatterns($lowerText, $text, $whitelist, $results, $lowerText !== $text, $options);
+        $this->runPatterns($lowerText, $text, $whitelist, $results, $lowerText !== $text, $options, $existingIndices);
 
         // Second pass on normalized text
         $normalizedText = $activeNormFn($text);
         if ($normalizedText !== $lowerText && $normalizedText !== '') {
-            $this->runPatterns($normalizedText, $text, $whitelist, $results, true, $options);
+            $this->runPatterns($normalizedText, $text, $whitelist, $results, true, $options, $existingIndices);
         }
 
         // Third pass: decompound CamelCase boundaries
@@ -279,7 +285,7 @@ final class Detector
             if ($decompound !== $text) {
                 $decompoundNorm = $activeNormFn($decompound);
                 if ($decompoundNorm !== $normalizedText && $decompoundNorm !== $lowerText) {
-                    $this->runPatterns($decompoundNorm, $text, $whitelist, $results, true, $options);
+                    $this->runPatterns($decompoundNorm, $text, $whitelist, $results, true, $options, $existingIndices);
                 }
             }
         }
@@ -300,6 +306,7 @@ final class Detector
     /**
      * @param array<string, true> $whitelist
      * @param MatchResult[]       $results
+     * @param array<int, true>    $existingIndices Shared across passes (by reference).
      */
     private function runPatterns(
         string $searchText,
@@ -308,12 +315,8 @@ final class Detector
         array &$results,
         bool $isNormalized,
         ?DetectOptions $options,
+        array &$existingIndices,
     ): void {
-        $existingIndices = [];
-        foreach ($results as $r) {
-            $existingIndices[$r->index] = true;
-        }
-
         $patterns = $this->ensureCompiled();
         $minSev = $options?->minSeverity;
         $exCats = $options?->excludeCategories;
