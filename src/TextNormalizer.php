@@ -196,33 +196,30 @@ final class TextNormalizer
 
     /**
      * Creates/returns a shared Turkish normalizer instance.
+     * Config is loaded from the Registry (single source of truth).
      */
     private static function getTurkishInstance(): self
     {
         if (self::$turkishInstance === null) {
+            $langConfig = \Terlik\Lang\Registry::getLanguageConfig('tr');
             self::$turkishInstance = new self(new NormalizerConfig(
-                locale: 'tr',
-                charMap: [
-                    'ç' => 'c', 'Ç' => 'c', 'ğ' => 'g', 'Ğ' => 'g',
-                    'ı' => 'i', 'İ' => 'i', 'ö' => 'o', 'Ö' => 'o',
-                    'ş' => 's', 'Ş' => 's', 'ü' => 'u', 'Ü' => 'u',
-                ],
-                leetMap: [
-                    '0' => 'o', '1' => 'i', '2' => 'i', '3' => 'e',
-                    '4' => 'a', '5' => 's', '6' => 'g', '7' => 't',
-                    '8' => 'b', '9' => 'g', '@' => 'a', '$' => 's',
-                    '!' => 'i',
-                ],
-                numberExpansions: [
-                    ['100', 'yuz'],
-                    ['50', 'elli'],
-                    ['10', 'on'],
-                    ['2', 'iki'],
-                ],
+                locale: $langConfig->locale,
+                charMap: $langConfig->charMap,
+                leetMap: $langConfig->leetMap,
+                numberExpansions: $langConfig->numberExpansions,
             ));
         }
 
         return self::$turkishInstance;
+    }
+
+    /**
+     * Resets the Turkish singleton instance.
+     * Called by Registry::resetCache() to ensure consistency.
+     */
+    public static function resetTurkishInstance(): void
+    {
+        self::$turkishInstance = null;
     }
 
     /**

@@ -6,6 +6,7 @@ namespace Terlik\Lang;
 
 use Terlik\Detector;
 use Terlik\Dictionary\Schema;
+use Terlik\TextNormalizer;
 
 final class Registry
 {
@@ -99,5 +100,6 @@ final class Registry
     {
         self::$registry = null;
         Detector::clearPatternCache();
+        TextNormalizer::resetTurkishInstance();
     }
 }
