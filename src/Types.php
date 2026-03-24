@@ -90,14 +90,14 @@ final class WordEntry
      * @param string   $root       The canonical root form of the word.
      * @param string[] $variants   Alternative spellings or forms of the root.
      * @param Severity $severity   Severity level of the word.
-     * @param string|null $category Content category.
+     * @param Category|null $category Content category.
      * @param bool     $suffixable Whether the suffix engine should match grammatical suffixes.
      */
     public function __construct(
         public readonly string $root,
         public readonly array $variants,
         public readonly Severity $severity,
-        public readonly ?string $category = null,
+        public readonly ?Category $category = null,
         public readonly bool $suffixable = false,
     ) {}
 }

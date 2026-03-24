@@ -236,7 +236,7 @@ final class Detector
                         root: $entry->root,
                         index: $charIndex,
                         severity: $entry->severity,
-                        category: $entry->category !== null ? Category::tryFrom($entry->category) : null,
+                        category: $entry->category,
                         method: MatchMethod::Exact,
                     );
                 }
@@ -510,8 +510,7 @@ final class Detector
                                 root: $entry->root,
                                 index: $charIndex,
                                 severity: $entry->severity,
-                                category: $entry->category !== null
-                                    ? Category::tryFrom($entry->category) : null,
+                                category: $entry->category,
                                 method: MatchMethod::Fuzzy,
                             );
                             $existingIndices[$charIndex] = true;

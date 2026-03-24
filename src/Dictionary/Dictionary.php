@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Terlik\Dictionary;
 
+use Terlik\Category;
 use Terlik\Severity;
 use Terlik\WordEntry;
 
@@ -51,7 +52,7 @@ final class Dictionary
                 root: $entry['root'],
                 variants: $entry['variants'],
                 severity: Severity::from($entry['severity']),
-                category: $entry['category'] ?? null,
+                category: isset($entry['category']) ? Category::tryFrom($entry['category']) : null,
                 suffixable: $entry['suffixable'] ?? false,
             ));
         }

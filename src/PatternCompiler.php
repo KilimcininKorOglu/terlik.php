@@ -220,8 +220,7 @@ final class PatternCompiler
                         $patterns[] = new CompiledPattern(
                             root: $entry->root,
                             severity: $entry->severity,
-                            category: $entry->category !== null
-                                ? Category::tryFrom($entry->category) : null,
+                            category: $entry->category,
                             regex: $fallbackFull,
                             variants: $entry->variants,
                         );
@@ -234,8 +233,7 @@ final class PatternCompiler
             $patterns[] = new CompiledPattern(
                 root: $entry->root,
                 severity: $entry->severity,
-                category: $entry->category !== null
-                    ? Category::tryFrom($entry->category) : null,
+                category: $entry->category,
                 regex: $fullPattern,
                 variants: $entry->variants,
             );
