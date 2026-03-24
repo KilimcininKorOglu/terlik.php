@@ -292,15 +292,11 @@ final class Detector
     }
 
     /**
-     * Locale-aware lowercase (Turkish İ/I special case).
+     * Locale-aware lowercase (delegates to TextNormalizer).
      */
     private function localeLower(string $text): string
     {
-        if ($this->locale === 'tr') {
-            $text = strtr($text, ['İ' => 'i', 'I' => 'ı']);
-        }
-
-        return mb_strtolower($text);
+        return TextNormalizer::localeLowercase($text, $this->locale);
     }
 
     /**

@@ -96,7 +96,7 @@ final class TextNormalizer
         $result = preg_replace(self::COMBINING_MARKS, '', $result) ?? $result;
 
         // 4. Locale-aware lowercase
-        $result = $this->localeLowercase($result);
+        $result = self::localeLowercase($result, $this->config->locale);
 
         // 5. Cyrillic confusable → Latin
         $result = self::replaceFromMap($result, self::CYRILLIC_CONFUSABLES);
@@ -130,10 +130,11 @@ final class TextNormalizer
     /**
      * Locale-aware lowercase.
      * For Turkish, manually handles İ→i and I→ı before mb_strtolower.
+     * Public static so Detector can reuse without duplication.
      */
-    private function localeLowercase(string $text): string
+    public static function localeLowercase(string $text, string $locale): string
     {
-        if ($this->config->locale === 'tr') {
+        if ($locale === 'tr') {
             $text = strtr($text, self::TURKISH_UPPER_MAP);
         }
 
