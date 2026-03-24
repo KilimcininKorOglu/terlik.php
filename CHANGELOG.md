@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2026-03-24
+
+### Added
+- Synthetic Profanity Dataset Generator (SPDG) ported to PHP with all 4 language datasets
+
+### Changed
+- Expanded README with full API reference, strictness controls, and normalization pipeline documentation
+
+### Fixed
+- Add file_get_contents return check in language config loaders (prevents misleading JSON errors)
+- Use global timeout budget across all patterns in runPatterns (prevents cumulative ReDoS)
+- Evict static pattern cache on recompile and add clearPatternCache API
+- Handle leading whitespace in mapNormalizedToOriginal offset calculation
+- Align strict mode word arrays when tokens normalize to empty
+- Use original text for MatchResult word field in Pass 1 (preserves casing for Cleaner)
+- Prioritize roots over variants in normalized word lookup
+- Validate merged suffix count against MAX_SUFFIXES limit
+- Integrate pattern cache eviction with Registry resetCache
+- Validate charClasses format before embedding in compiled patterns
+
 ## [1.0.0] - 2026-03-23
 
 ### Added
