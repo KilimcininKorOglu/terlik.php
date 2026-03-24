@@ -29,6 +29,15 @@ final class PatternCompiler
     /** @var array<string, bool> Cache for validated charClass patterns. */
     private static array $validatedCharClasses = [];
 
+    /**
+     * Clears the charClass validation cache.
+     * Called by Detector::clearPatternCache() during reset.
+     */
+    public static function resetValidationCache(): void
+    {
+        self::$validatedCharClasses = [];
+    }
+
     private static function charToPattern(string $ch, array $charClasses): string
     {
         $lower = mb_strtolower($ch);

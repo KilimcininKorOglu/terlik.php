@@ -93,6 +93,7 @@ final class Detector
     public static function clearPatternCache(): void
     {
         self::$patternCache = [];
+        PatternCompiler::resetValidationCache();
     }
 
     public function recompile(): void
